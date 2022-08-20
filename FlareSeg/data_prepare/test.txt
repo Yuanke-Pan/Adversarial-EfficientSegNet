@@ -1,0 +1,6203 @@
+validation_048 has invalid image.
+validation_042 has invalid image.
+validation_015 has invalid image.
+validation_009 has invalid image.
+validation_047 has invalid image.
+validation_025 has invalid image.
+validation_032 has invalid image.
+validation_037 has invalid image.
+validation_003 has invalid image.
+validation_043 has invalid image.
+validation_029 has invalid image.
+validation_033 has invalid image.
+validation_021 has invalid image.
+validation_019 has invalid image.
+validation_020 has invalid image.
+validation_008 has invalid image.
+validation_041 has invalid image.
+validation_018 has invalid image.
+validation_016 has invalid image.
+validation_002 has invalid image.
+validation_026 has invalid image.
+validation_014 has invalid image.
+validation_039 has invalid image.
+validation_046 has invalid image.
+validation_017 has invalid image.
+validation_013 has invalid image.
+validation_004 has invalid image.
+validation_027 has invalid image.
+validation_045 has invalid image.
+validation_034 has invalid image.
+validation_050 has invalid image.
+validation_035 has invalid image.
+validation_040 has invalid image.
+validation_011 has invalid image.
+validation_024 has invalid image.
+validation_044 has invalid image.
+validation_038 has invalid image.
+validation_010 has invalid image.
+validation_006 has invalid image.
+validation_049 has invalid image.
+validation_012 has invalid image.
+validation_031 has invalid image.
+validation_036 has invalid image.
+validation_022 has invalid image.
+validation_023 has invalid image.
+validation_028 has invalid image.
+validation_001 has invalid image.
+validation_005 has invalid image.
+validation_030 has invalid image.
+validation_007 has invalid image.
+Num of ct is 50.
+Num of ct is 2000.
+Start processing Case_00082. unlabel
+above finished unlabel
+End processing Case_00082.
+Start processing Case_00201. unlabel
+above finished unlabel
+End processing Case_00201.
+Start processing Case_00800. unlabel
+above finished unlabel
+End processing Case_00800.
+Start processing Case_00940. unlabel
+above finished unlabel
+End processing Case_00940.
+Start processing Case_01124. unlabel
+above finished unlabel
+End processing Case_01124.
+Start processing Case_01214. unlabel
+above finished unlabel
+End processing Case_01214.
+Start processing Case_01426. unlabel
+above finished unlabel
+End processing Case_01426.
+Start processing Case_01608. unlabel
+above finished unlabel
+End processing Case_01608.
+Start processing Case_01757. unlabel
+above finished unlabel
+End processing Case_01757.
+Start processing Case_00041. unlabel
+above finished unlabel
+End processing Case_00041.
+Start processing Case_00141. unlabel
+above finished unlabel
+End processing Case_00141.
+Start processing Case_00195. unlabel
+above finished unlabel
+End processing Case_00195.
+Start processing Case_00236. unlabel
+above finished unlabel
+End processing Case_00236.
+Start processing Case_00303. unlabel
+above finished unlabel
+End processing Case_00303.
+Start processing Case_00505. unlabel
+above finished unlabel
+End processing Case_00505.
+Start processing Case_00558. unlabel
+above finished unlabel
+End processing Case_00558.
+Start processing Case_01066. unlabel
+above finished unlabel
+End processing Case_01066.
+Start processing Case_01143. unlabel
+above finished unlabel
+End processing Case_01143.
+Start processing Case_01239. unlabel
+above finished unlabel
+End processing Case_01239.
+Start processing Case_01367. unlabel
+above finished unlabel
+End processing Case_01367.
+Start processing Case_01525. unlabel
+above finished unlabel
+End processing Case_01525.
+Start processing Case_01700. unlabel
+above finished unlabel
+End processing Case_01700.
+Start processing Case_01780. unlabel
+above finished unlabel
+End processing Case_01780.
+Start processing FLARE22_Tr_0015. train
+above finished train
+End processing FLARE22_Tr_0015.
+Start processing Case_00787. unlabel
+above finished unlabel
+End processing Case_00787.
+Start processing Case_01483. unlabel
+above finished unlabel
+End processing Case_01483.
+Start processing Case_01620. unlabel
+above finished unlabel
+End processing Case_01620.
+Start processing Case_01832. unlabel
+above finished unlabel
+End processing Case_01832.
+Start processing FLARE22_Tr_0041. train
+above finished train
+End processing FLARE22_Tr_0041.
+Start processing Case_00521. unlabel
+above finished unlabel
+End processing Case_00521.
+Start processing Case_00580. unlabel
+above finished unlabel
+End processing Case_00580.
+Start processing Case_00656. unlabel
+above finished unlabel
+End processing Case_00656.
+Start processing Case_00742. unlabel
+above finished unlabel
+End processing Case_00742.
+Start processing Case_00836. unlabel
+above finished unlabel
+End processing Case_00836.
+Start processing Case_00914. unlabel
+above finished unlabel
+End processing Case_00914.
+Start processing Case_01026. unlabel
+above finished unlabel
+End processing Case_01026.
+Start processing Case_01136. unlabel
+above finished unlabel
+End processing Case_01136.
+Start processing Case_01232. unlabel
+above finished unlabel
+End processing Case_01232.
+Start processing Case_01346. unlabel
+above finished unlabel
+End processing Case_01346.
+Start processing Case_01638. unlabel
+above finished unlabel
+End processing Case_01638.
+Start processing Case_01784. unlabel
+above finished unlabel
+End processing Case_01784.
+Start processing FLARE22_Tr_0026. train
+above finished train
+End processing FLARE22_Tr_0026.
+Start processing Case_00790. unlabel
+above finished unlabel
+End processing Case_00790.
+Start processing Case_01498. unlabel
+above finished unlabel
+End processing Case_01498.
+Start processing Case_01645. unlabel
+above finished unlabel
+End processing Case_01645.
+Start processing Case_01836. unlabel
+above finished unlabel
+End processing Case_01836.
+Start processing Case_00045. unlabel
+above finished unlabel
+End processing Case_00045.
+Start processing Case_00138. unlabel
+above finished unlabel
+End processing Case_00138.
+Start processing Case_00268. unlabel
+above finished unlabel
+End processing Case_00268.
+Start processing Case_00467. unlabel
+above finished unlabel
+End processing Case_00467.
+Start processing Case_00591. unlabel
+above finished unlabel
+End processing Case_00591.
+Start processing Case_00879. unlabel
+above finished unlabel
+End processing Case_00879.
+Start processing Case_00928. unlabel
+above finished unlabel
+End processing Case_00928.
+Start processing Case_01008. unlabel
+above finished unlabel
+End processing Case_01008.
+Start processing Case_01117. unlabel
+above finished unlabel
+End processing Case_01117.
+Start processing Case_01204. unlabel
+above finished unlabel
+End processing Case_01204.
+Start processing Case_01368. unlabel
+above finished unlabel
+End processing Case_01368.
+Start processing Case_01552. unlabel
+above finished unlabel
+End processing Case_01552.
+Start processing Case_01786. unlabel
+above finished unlabel
+End processing Case_01786.
+Start processing Case_00060. unlabel
+above finished unlabel
+End processing Case_00060.
+Start processing Case_00163. unlabel
+above finished unlabel
+End processing Case_00163.
+Start processing Case_00275. unlabel
+above finished unlabel
+End processing Case_00275.
+Start processing Case_00396. unlabel
+above finished unlabel
+End processing Case_00396.
+Start processing Case_00495. unlabel
+above finished unlabel
+End processing Case_00495.
+Start processing Case_00593. unlabel
+above finished unlabel
+End processing Case_00593.
+Start processing Case_00686. unlabel
+above finished unlabel
+End processing Case_00686.
+Start processing Case_00977. unlabel
+above finished unlabel
+End processing Case_00977.
+Start processing Case_01033. unlabel
+above finished unlabel
+End processing Case_01033.
+Start processing Case_01138. unlabel
+above finished unlabel
+End processing Case_01138.
+Start processing Case_01245. unlabel
+above finished unlabel
+End processing Case_01245.
+Start processing Case_01397. unlabel
+above finished unlabel
+End processing Case_01397.
+Start processing Case_01547. unlabel
+above finished unlabel
+End processing Case_01547.
+Start processing Case_01823. unlabel
+above finished unlabel
+End processing Case_01823.
+Start processing FLARE22_Tr_0027. train
+above finished train
+End processing FLARE22_Tr_0027.
+Start processing Case_00854. unlabel
+above finished unlabel
+End processing Case_00854.
+Start processing Case_00946. unlabel
+above finished unlabel
+End processing Case_00946.
+Start processing Case_01607. unlabel
+above finished unlabel
+End processing Case_01607.
+Start processing Case_01726. unlabel
+above finished unlabel
+End processing Case_01726.
+Start processing Case_01872. unlabel
+above finished unlabel
+End processing Case_01872.
+Start processing Case_00014. unlabel
+above finished unlabel
+End processing Case_00014.
+Start processing Case_00167. unlabel
+above finished unlabel
+End processing Case_00167.
+Start processing Case_00262. unlabel
+above finished unlabel
+End processing Case_00262.
+Start processing Case_00706. unlabel
+above finished unlabel
+End processing Case_00706.
+Start processing Case_00842. unlabel
+above finished unlabel
+End processing Case_00842.
+Start processing Case_00987. unlabel
+above finished unlabel
+End processing Case_00987.
+Start processing Case_01083. unlabel
+above finished unlabel
+End processing Case_01083.
+Start processing Case_01133. unlabel
+above finished unlabel
+End processing Case_01133.
+Start processing Case_01267. unlabel
+above finished unlabel
+End processing Case_01267.
+Start processing Case_01428. unlabel
+above finished unlabel
+End processing Case_01428.
+Start processing Case_01592. unlabel
+above finished unlabel
+End processing Case_01592.
+Start processing Case_01728. unlabel
+above finished unlabel
+End processing Case_01728.
+Start processing Case_01841. unlabel
+above finished unlabel
+End processing Case_01841.
+Start processing Case_00058. unlabel
+above finished unlabel
+End processing Case_00058.
+Start processing Case_00273. unlabel
+above finished unlabel
+End processing Case_00273.
+Start processing Case_00323. unlabel
+above finished unlabel
+End processing Case_00323.
+Start processing Case_00380. unlabel
+above finished unlabel
+End processing Case_00380.
+Start processing Case_00455. unlabel
+above finished unlabel
+End processing Case_00455.
+Start processing Case_01018. unlabel
+above finished unlabel
+End processing Case_01018.
+Start processing Case_01104. unlabel
+above finished unlabel
+End processing Case_01104.
+Start processing Case_01230. unlabel
+above finished unlabel
+End processing Case_01230.
+Start processing Case_01390. unlabel
+above finished unlabel
+End processing Case_01390.
+Start processing Case_01555. unlabel
+above finished unlabel
+End processing Case_01555.
+Start processing Case_01919. unlabel
+above finished unlabel
+End processing Case_01919.
+Start processing Case_00056. unlabel
+above finished unlabel
+End processing Case_00056.
+Start processing Case_00305. unlabel
+above finished unlabel
+End processing Case_00305.
+Start processing Case_00532. unlabel
+above finished unlabel
+End processing Case_00532.
+Start processing Case_01043. unlabel
+above finished unlabel
+End processing Case_01043.
+Start processing Case_01141. unlabel
+above finished unlabel
+End processing Case_01141.
+Start processing Case_01264. unlabel
+above finished unlabel
+End processing Case_01264.
+Start processing Case_01380. unlabel
+above finished unlabel
+End processing Case_01380.
+Start processing Case_01548. unlabel
+above finished unlabel
+End processing Case_01548.
+Start processing Case_01707. unlabel
+above finished unlabel
+End processing Case_01707.
+Start processing Case_01824. unlabel
+above finished unlabel
+End processing Case_01824.
+Start processing Case_00013. unlabel
+above finished unlabel
+End processing Case_00013.
+Start processing Case_00179. unlabel
+above finished unlabel
+End processing Case_00179.
+Start processing Case_00230. unlabel
+above finished unlabel
+End processing Case_00230.
+Start processing Case_00695. unlabel
+above finished unlabel
+End processing Case_00695.
+Start processing Case_01357. unlabel
+above finished unlabel
+End processing Case_01357.
+Start processing Case_01574. unlabel
+above finished unlabel
+End processing Case_01574.
+Start processing Case_01736. unlabel
+above finished unlabel
+End processing Case_01736.
+Start processing Case_01915. unlabel
+above finished unlabel
+End processing Case_01915.
+Start processing Case_00077. unlabel
+above finished unlabel
+End processing Case_00077.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00415_0000.nii.gz!
+Start processing Case_00415. unlabel
+Start processing Case_00416. unlabel
+above finished unlabel
+End processing Case_00416.
+Start processing Case_00506. unlabel
+above finished unlabel
+End processing Case_00506.
+Start processing Case_00581. unlabel
+above finished unlabel
+End processing Case_00581.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00756_0000.nii.gz!
+Start processing Case_00756. unlabel
+Start processing Case_00757. unlabel
+above finished unlabel
+End processing Case_00757.
+Start processing Case_01316. unlabel
+above finished unlabel
+End processing Case_01316.
+Start processing Case_01444. unlabel
+above finished unlabel
+End processing Case_01444.
+Start processing Case_01628. unlabel
+above finished unlabel
+End processing Case_01628.
+Start processing Case_01798. unlabel
+above finished unlabel
+End processing Case_01798.
+Start processing FLARE22_Tr_0006. train
+above finished train
+End processing FLARE22_Tr_0006.
+Start processing Case_00611. unlabel
+above finished unlabel
+End processing Case_00611.
+Start processing Case_00644. unlabel
+above finished unlabel
+End processing Case_00644.
+Start processing Case_00701. unlabel
+above finished unlabel
+End processing Case_00701.
+Start processing Case_00767. unlabel
+above finished unlabel
+End processing Case_00767.
+Start processing Case_00837. unlabel
+above finished unlabel
+End processing Case_00837.
+Start processing Case_00915. unlabel
+above finished unlabel
+End processing Case_00915.
+Start processing Case_01012. unlabel
+above finished unlabel
+End processing Case_01012.
+Start processing Case_01079. unlabel
+above finished unlabel
+End processing Case_01079.
+Start processing Case_01164. unlabel
+above finished unlabel
+End processing Case_01164.
+Start processing Case_01297. unlabel
+above finished unlabel
+End processing Case_01297.
+Start processing Case_01420. unlabel
+above finished unlabel
+End processing Case_01420.
+Start processing Case_01619. unlabel
+above finished unlabel
+End processing Case_01619.
+Start processing Case_01742. unlabel
+above finished unlabel
+End processing Case_01742.
+Start processing Case_01850. unlabel
+above finished unlabel
+End processing Case_01850.
+Start processing Case_00054. unlabel
+above finished unlabel
+End processing Case_00054.
+Start processing Case_00145. unlabel
+above finished unlabel
+End processing Case_00145.
+Start processing Case_00185. unlabel
+above finished unlabel
+End processing Case_00185.
+Start processing Case_00243. unlabel
+above finished unlabel
+End processing Case_00243.
+Start processing Case_00475. unlabel
+above finished unlabel
+End processing Case_00475.
+Start processing Case_00774. unlabel
+above finished unlabel
+End processing Case_00774.
+Start processing Case_00862. unlabel
+above finished unlabel
+End processing Case_00862.
+Start processing Case_00935. unlabel
+above finished unlabel
+End processing Case_00935.
+Start processing Case_01042. unlabel
+above finished unlabel
+End processing Case_01042.
+Start processing Case_01155. unlabel
+above finished unlabel
+End processing Case_01155.
+Start processing Case_01277. unlabel
+above finished unlabel
+End processing Case_01277.
+Start processing Case_01443. unlabel
+above finished unlabel
+End processing Case_01443.
+Start processing Case_01621. unlabel
+above finished unlabel
+End processing Case_01621.
+Start processing Case_01766. unlabel
+above finished unlabel
+End processing Case_01766.
+Start processing Case_01938. unlabel
+above finished unlabel
+End processing Case_01938.
+Start processing Case_00067. unlabel
+above finished unlabel
+End processing Case_00067.
+Start processing Case_00355. unlabel
+above finished unlabel
+End processing Case_00355.
+Start processing Case_00397. unlabel
+above finished unlabel
+End processing Case_00397.
+Start processing Case_00458. unlabel
+above finished unlabel
+End processing Case_00458.
+Start processing Case_00648. unlabel
+above finished unlabel
+End processing Case_00648.
+Start processing Case_00737. unlabel
+above finished unlabel
+End processing Case_00737.
+Start processing Case_00809. unlabel
+above finished unlabel
+End processing Case_00809.
+Start processing Case_00880. unlabel
+above finished unlabel
+End processing Case_00880.
+Start processing Case_00954. unlabel
+above finished unlabel
+End processing Case_00954.
+Start processing Case_01325. unlabel
+above finished unlabel
+End processing Case_01325.
+Start processing Case_01487. unlabel
+above finished unlabel
+End processing Case_01487.
+Start processing Case_01623. unlabel
+above finished unlabel
+End processing Case_01623.
+Start processing Case_01743. unlabel
+above finished unlabel
+End processing Case_01743.
+Start processing Case_01856. unlabel
+above finished unlabel
+End processing Case_01856.
+Start processing Case_00034. unlabel
+above finished unlabel
+End processing Case_00034.
+Start processing Case_00186. unlabel
+above finished unlabel
+Start processing Case_00299. unlabel
+above finished unlabel
+End processing Case_00299.
+Start processing Case_00863. unlabel
+above finished unlabel
+End processing Case_00863.
+Start processing Case_00951. unlabel
+above finished unlabel
+End processing Case_00951.
+Start processing Case_01015. unlabel
+above finished unlabel
+End processing Case_01015.
+Start processing Case_01121. unlabel
+above finished unlabel
+End processing Case_01121.
+Start processing Case_01231. unlabel
+above finished unlabel
+End processing Case_01231.
+Start processing Case_01458. unlabel
+above finished unlabel
+End processing Case_01458.
+Start processing Case_01655. unlabel
+above finished unlabel
+End processing Case_01655.
+Start processing Case_01737. unlabel
+above finished unlabel
+End processing Case_01737.
+Start processing Case_01892. unlabel
+above finished unlabel
+End processing Case_01892.
+Start processing Case_00087. unlabel
+above finished unlabel
+End processing Case_00087.
+Start processing Case_00272. unlabel
+above finished unlabel
+End processing Case_00272.
+Start processing Case_00664. unlabel
+above finished unlabel
+End processing Case_00664.
+Start processing Case_01330. unlabel
+above finished unlabel
+End processing Case_01330.
+Start processing Case_01453. unlabel
+above finished unlabel
+End processing Case_01453.
+Start processing Case_01685. unlabel
+above finished unlabel
+End processing Case_01685.
+Start processing Case_01886. unlabel
+above finished unlabel
+End processing Case_01886.
+Start processing Case_00042. unlabel
+above finished unlabel
+End processing Case_00042.
+Start processing Case_00312. unlabel
+above finished unlabel
+End processing Case_00312.
+Start processing Case_00354. unlabel
+above finished unlabel
+End processing Case_00354.
+Start processing Case_00402. unlabel
+above finished unlabel
+End processing Case_00402.
+Start processing Case_00520. unlabel
+above finished unlabel
+End processing Case_00520.
+Start processing Case_00590. unlabel
+above finished unlabel
+End processing Case_00590.
+Start processing Case_00909. unlabel
+above finished unlabel
+End processing Case_00909.
+Start processing Case_01092. unlabel
+above finished unlabel
+End processing Case_01092.
+Start processing Case_01165. unlabel
+above finished unlabel
+End processing Case_01165.
+Start processing Case_01300. unlabel
+above finished unlabel
+End processing Case_01300.
+Start processing Case_01417. unlabel
+above finished unlabel
+End processing Case_01417.
+Start processing Case_01664. unlabel
+above finished unlabel
+End processing Case_01664.
+Start processing Case_01741. unlabel
+above finished unlabel
+End processing Case_01741.
+Start processing Case_01890. unlabel
+above finished unlabel
+End processing Case_01890.
+Start processing Case_00046. unlabel
+above finished unlabel
+End processing Case_00046.
+Start processing Case_00137. unlabel
+above finished unlabel
+End processing Case_00137.
+Start processing Case_00242. unlabel
+above finished unlabel
+End processing Case_00242.
+Start processing Case_00504. unlabel
+above finished unlabel
+End processing Case_00504.
+Start processing Case_00562. unlabel
+above finished unlabel
+End processing Case_00562.
+Start processing Case_00913. unlabel
+above finished unlabel
+End processing Case_00913.
+Start processing Case_01024. unlabel
+above finished unlabel
+End processing Case_01024.
+Start processing Case_01112. unlabel
+above finished unlabel
+End processing Case_01112.
+Start processing Case_01243. unlabel
+above finished unlabel
+End processing Case_01243.
+Start processing Case_01405. unlabel
+above finished unlabel
+End processing Case_01405.
+Start processing Case_01639. unlabel
+above finished unlabel
+End processing Case_01639.
+Start processing Case_01762. unlabel
+above finished unlabel
+End processing Case_01762.
+Start processing Case_01943. unlabel
+above finished unlabel
+End processing Case_01943.
+Start processing Case_00032. unlabel
+above finished unlabel
+End processing Case_00032.
+Start processing Case_00203. unlabel
+above finished unlabel
+End processing Case_00203.
+Start processing Case_00494. unlabel
+above finished unlabel
+End processing Case_00494.
+Start processing Case_00570. unlabel
+above finished unlabel
+End processing Case_00570.
+Start processing Case_01084. unlabel
+above finished unlabel
+End processing Case_01084.
+Start processing Case_01258. unlabel
+above finished unlabel
+End processing Case_01258.
+Start processing Case_01437. unlabel
+above finished unlabel
+End processing Case_01437.
+Start processing Case_01584. unlabel
+above finished unlabel
+End processing Case_01584.
+Start processing Case_01893. unlabel
+above finished unlabel
+End processing Case_01893.
+Start processing Case_00068. unlabel
+above finished unlabel
+End processing Case_00068.
+Start processing Case_00334. unlabel
+above finished unlabel
+End processing Case_00334.
+Start processing Case_00372. unlabel
+above finished unlabel
+End processing Case_00372.
+Start processing Case_00427. unlabel
+above finished unlabel
+End processing Case_00427.
+Start processing Case_00522. unlabel
+above finished unlabel
+End processing Case_00522.
+Start processing Case_00649. unlabel
+above finished unlabel
+End processing Case_00649.
+Start processing Case_00717. unlabel
+above finished unlabel
+End processing Case_00717.
+Start processing Case_00784. unlabel
+above finished unlabel
+End processing Case_00784.
+Start processing Case_00834. unlabel
+above finished unlabel
+End processing Case_00834.
+Start processing Case_00897. unlabel
+above finished unlabel
+End processing Case_00897.
+Start processing Case_01004. unlabel
+above finished unlabel
+End processing Case_01004.
+Start processing Case_01082. unlabel
+above finished unlabel
+End processing Case_01082.
+Start processing Case_01161. unlabel
+above finished unlabel
+End processing Case_01161.
+Start processing Case_01291. unlabel
+above finished unlabel
+End processing Case_01291.
+Start processing Case_01387. unlabel
+above finished unlabel
+End processing Case_01387.
+Start processing Case_01554. unlabel
+above finished unlabel
+End processing Case_01554.
+Start processing Case_01937. unlabel
+above finished unlabel
+End processing Case_01937.
+Start processing Case_00016. unlabel
+above finished unlabel
+End processing Case_00016.
+Start processing Case_00263. unlabel
+above finished unlabel
+End processing Case_00263.
+Start processing Case_00660. unlabel
+above finished unlabel
+End processing Case_00660.
+Start processing Case_00718. unlabel
+above finished unlabel
+End processing Case_00718.
+Start processing Case_00793. unlabel
+above finished unlabel
+End processing Case_00793.
+Start processing Case_00869. unlabel
+above finished unlabel
+End processing Case_00869.
+Start processing Case_00938. unlabel
+above finished unlabel
+End processing Case_00938.
+Start processing Case_01014. unlabel
+above finished unlabel
+End processing Case_01014.
+Start processing Case_01089. unlabel
+above finished unlabel
+End processing Case_01089.
+Start processing Case_01144. unlabel
+above finished unlabel
+End processing Case_01144.
+Start processing Case_01259. unlabel
+above finished unlabel
+End processing Case_01259.
+Start processing Case_01475. unlabel
+above finished unlabel
+End processing Case_01475.
+Start processing Case_01578. unlabel
+above finished unlabel
+End processing Case_01578.
+Start processing Case_01926. unlabel
+above finished unlabel
+End processing Case_01926.
+Start processing Case_00088. unlabel
+above finished unlabel
+End processing Case_00088.
+Start processing Case_00567. unlabel
+above finished unlabel
+End processing Case_00567.
+Start processing Case_00749. unlabel
+above finished unlabel
+End processing Case_00749.
+Start processing Case_01501. unlabel
+above finished unlabel
+End processing Case_01501.
+Start processing Case_01686. unlabel
+above finished unlabel
+End processing Case_01686.
+Start processing Case_01725. unlabel
+above finished unlabel
+End processing Case_01725.
+Start processing Case_01921. unlabel
+above finished unlabel
+End processing Case_01921.
+Start processing FLARE22_Tr_0028. train
+above finished train
+End processing FLARE22_Tr_0028.
+Start processing Case_00462. unlabel
+above finished unlabel
+End processing Case_00462.
+Start processing Case_00536. unlabel
+above finished unlabel
+End processing Case_00536.
+Start processing Case_00631. unlabel
+above finished unlabel
+End processing Case_00631.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00698_0000.nii.gz!
+Start processing Case_00698. unlabel
+Start processing Case_00700. unlabel
+above finished unlabel
+End processing Case_00700.
+Start processing Case_01418. unlabel
+above finished unlabel
+End processing Case_01418.
+Start processing Case_01591. unlabel
+above finished unlabel
+End processing Case_01591.
+Start processing Case_01820. unlabel
+above finished unlabel
+End processing Case_01820.
+Start processing Case_00008. unlabel
+above finished unlabel
+End processing Case_00008.
+Start processing Case_00159. unlabel
+above finished unlabel
+End processing Case_00159.
+Start processing Case_00214. unlabel
+above finished unlabel
+End processing Case_00214.
+Start processing Case_00282. unlabel
+above finished unlabel
+End processing Case_00282.
+Start processing Case_00325. unlabel
+above finished unlabel
+End processing Case_00325.
+Start processing Case_00368. unlabel
+above finished unlabel
+End processing Case_00368.
+Start processing Case_00417. unlabel
+above finished unlabel
+End processing Case_00417.
+Start processing Case_00480. unlabel
+above finished unlabel
+End processing Case_00480.
+Start processing Case_00539. unlabel
+above finished unlabel
+End processing Case_00539.
+Start processing Case_00601. unlabel
+above finished unlabel
+End processing Case_00601.
+Start processing Case_00659. unlabel
+above finished unlabel
+End processing Case_00659.
+Start processing Case_00888. unlabel
+above finished unlabel
+End processing Case_00888.
+Start processing Case_00979. unlabel
+above finished unlabel
+End processing Case_00979.
+Start processing Case_01119. unlabel
+above finished unlabel
+End processing Case_01119.
+Start processing Case_01202. unlabel
+above finished unlabel
+End processing Case_01202.
+Start processing Case_01344. unlabel
+above finished unlabel
+End processing Case_01344.
+Start processing Case_01513. unlabel
+above finished unlabel
+End processing Case_01513.
+Start processing Case_01636. unlabel
+above finished unlabel
+End processing Case_01636.
+Start processing Case_01749. unlabel
+above finished unlabel
+End processing Case_01749.
+Start processing Case_01858. unlabel
+above finished unlabel
+End processing Case_01858.
+Start processing Case_00108. unlabel
+above finished unlabel
+End processing Case_00108.
+Start processing Case_00264. unlabel
+above finished unlabel
+End processing Case_00264.
+Start processing Case_00668. unlabel
+above finished unlabel
+End processing Case_00668.
+Start processing Case_00777. unlabel
+above finished unlabel
+End processing Case_00777.
+Start processing Case_00999. unlabel
+above finished unlabel
+End processing Case_00999.
+Start processing Case_01109. unlabel
+above finished unlabel
+End processing Case_01109.
+Start processing Case_01173. unlabel
+above finished unlabel
+End processing Case_01173.
+Start processing Case_01293. unlabel
+above finished unlabel
+End processing Case_01293.
+Start processing Case_01382. unlabel
+above finished unlabel
+End processing Case_01382.
+Start processing Case_01533. unlabel
+above finished unlabel
+End processing Case_01533.
+Start processing Case_01690. unlabel
+above finished unlabel
+End processing Case_01690.
+Start processing Case_01822. unlabel
+above finished unlabel
+End processing Case_01822.
+Start processing FLARE22_Tr_0046. train
+above finished train
+End processing FLARE22_Tr_0046.
+Start processing Case_00639. unlabel
+above finished unlabel
+End processing Case_00639.
+Start processing Case_00709. unlabel
+above finished unlabel
+End processing Case_00709.
+Start processing Case_01304. unlabel
+above finished unlabel
+End processing Case_01304.
+Start processing Case_01439. unlabel
+above finished unlabel
+End processing Case_01439.
+Start processing Case_01643. unlabel
+above finished unlabel
+End processing Case_01643.
+Start processing Case_01765. unlabel
+above finished unlabel
+End processing Case_01765.
+Start processing Case_01930. unlabel
+above finished unlabel
+End processing Case_01930.
+Start processing Case_00029. unlabel
+above finished unlabel
+End processing Case_00029.
+Start processing Case_00143. unlabel
+above finished unlabel
+End processing Case_00143.
+Start processing Case_00326. unlabel
+above finished unlabel
+End processing Case_00326.
+Start processing Case_00383. unlabel
+above finished unlabel
+End processing Case_00383.
+Start processing Case_00474. unlabel
+above finished unlabel
+End processing Case_00474.
+Start processing Case_00688. unlabel
+above finished unlabel
+End processing Case_00688.
+Start processing Case_00736. unlabel
+above finished unlabel
+End processing Case_00736.
+Start processing Case_00878. unlabel
+above finished unlabel
+End processing Case_00878.
+Start processing Case_00924. unlabel
+above finished unlabel
+End processing Case_00924.
+Start processing Case_01097. unlabel
+above finished unlabel
+End processing Case_01097.
+Start processing Case_01189. unlabel
+above finished unlabel
+End processing Case_01189.
+Start processing Case_01324. unlabel
+above finished unlabel
+End processing Case_01324.
+Start processing Case_01451. unlabel
+above finished unlabel
+End processing Case_01451.
+Start processing Case_01596. unlabel
+above finished unlabel
+End processing Case_01596.
+Start processing Case_01744. unlabel
+above finished unlabel
+End processing Case_01744.
+Start processing Case_01881. unlabel
+above finished unlabel
+End processing Case_01881.
+Start processing Case_00047. unlabel
+above finished unlabel
+End processing Case_00047.
+Start processing Case_00765. unlabel
+above finished unlabel
+End processing Case_00765.
+Start processing Case_00807. unlabel
+above finished unlabel
+End processing Case_00807.
+Start processing Case_00916. unlabel
+above finished unlabel
+End processing Case_00916.
+Start processing Case_01005. unlabel
+above finished unlabel
+End processing Case_01005.
+Start processing Case_01073. unlabel
+above finished unlabel
+End processing Case_01073.
+Start processing Case_01116. unlabel
+above finished unlabel
+End processing Case_01116.
+Start processing Case_01233. unlabel
+above finished unlabel
+End processing Case_01233.
+Start processing Case_01423. unlabel
+above finished unlabel
+End processing Case_01423.
+Start processing Case_01609. unlabel
+above finished unlabel
+End processing Case_01609.
+Start processing Case_01735. unlabel
+above finished unlabel
+End processing Case_01735.
+Start processing Case_01844. unlabel
+above finished unlabel
+End processing Case_01844.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00051_0000.nii.gz!
+Start processing Case_00051. unlabel
+Start processing Case_00131. unlabel
+above finished unlabel
+End processing Case_00131.
+Start processing Case_00153. unlabel
+above finished unlabel
+End processing Case_00153.
+Start processing Case_00191. unlabel
+above finished unlabel
+End processing Case_00191.
+Start processing Case_00277. unlabel
+above finished unlabel
+End processing Case_00277.
+Start processing Case_00335. unlabel
+above finished unlabel
+End processing Case_00335.
+Start processing Case_00379. unlabel
+above finished unlabel
+End processing Case_00379.
+Start processing Case_00447. unlabel
+above finished unlabel
+End processing Case_00447.
+Start processing Case_00511. unlabel
+above finished unlabel
+End processing Case_00511.
+Start processing Case_00577. unlabel
+above finished unlabel
+End processing Case_00577.
+Start processing Case_00645. unlabel
+above finished unlabel
+End processing Case_00645.
+Start processing Case_00727. unlabel
+above finished unlabel
+End processing Case_00727.
+Start processing Case_01305. unlabel
+above finished unlabel
+End processing Case_01305.
+Start processing Case_01366. unlabel
+above finished unlabel
+End processing Case_01366.
+Start processing Case_01536. unlabel
+above finished unlabel
+End processing Case_01536.
+Start processing Case_01709. unlabel
+above finished unlabel
+End processing Case_01709.
+Start processing Case_01775. unlabel
+above finished unlabel
+End processing Case_01775.
+Start processing Case_00024. unlabel
+above finished unlabel
+End processing Case_00024.
+Start processing Case_00316. unlabel
+above finished unlabel
+End processing Case_00316.
+Start processing Case_00388. unlabel
+above finished unlabel
+End processing Case_00388.
+Start processing Case_00510. unlabel
+above finished unlabel
+End processing Case_00510.
+Start processing Case_00622. unlabel
+above finished unlabel
+End processing Case_00622.
+Start processing Case_00685. unlabel
+above finished unlabel
+End processing Case_00685.
+Start processing Case_01355. unlabel
+above finished unlabel
+End processing Case_01355.
+Start processing Case_01524. unlabel
+above finished unlabel
+End processing Case_01524.
+Start processing Case_01692. unlabel
+above finished unlabel
+End processing Case_01692.
+Start processing Case_01756. unlabel
+above finished unlabel
+End processing Case_01756.
+Start processing Case_01925. unlabel
+above finished unlabel
+End processing Case_01925.
+Start processing Case_00111. unlabel
+above finished unlabel
+End processing Case_00111.
+Start processing Case_00207. unlabel
+above finished unlabel
+End processing Case_00207.
+Start processing Case_00367. unlabel
+above finished unlabel
+End processing Case_00367.
+Start processing Case_00451. unlabel
+above finished unlabel
+End processing Case_00451.
+Start processing Case_00780. unlabel
+above finished unlabel
+End processing Case_00780.
+Start processing Case_01339. unlabel
+above finished unlabel
+End processing Case_01339.
+Start processing Case_01514. unlabel
+above finished unlabel
+End processing Case_01514.
+Start processing Case_01637. unlabel
+above finished unlabel
+End processing Case_01637.
+Start processing Case_01788. unlabel
+above finished unlabel
+End processing Case_01788.
+Start processing Case_00015. unlabel
+above finished unlabel
+End processing Case_00015.
+Start processing Case_00293. unlabel
+above finished unlabel
+End processing Case_00293.
+Start processing Case_00453. unlabel
+above finished unlabel
+End processing Case_00453.
+Start processing Case_01069. unlabel
+above finished unlabel
+End processing Case_01069.
+Start processing Case_01172. unlabel
+above finished unlabel
+End processing Case_01172.
+Start processing Case_01309. unlabel
+above finished unlabel
+End processing Case_01309.
+Start processing Case_01422. unlabel
+above finished unlabel
+End processing Case_01422.
+Start processing Case_01665. unlabel
+above finished unlabel
+End processing Case_01665.
+Start processing Case_01882. unlabel
+above finished unlabel
+End processing Case_01882.
+Start processing Case_00117. unlabel
+above finished unlabel
+End processing Case_00117.
+Start processing Case_00278. unlabel
+above finished unlabel
+End processing Case_00278.
+Start processing Case_00376. unlabel
+above finished unlabel
+End processing Case_00376.
+Start processing Case_00445. unlabel
+above finished unlabel
+End processing Case_00445.
+Start processing Case_00598. unlabel
+above finished unlabel
+End processing Case_00598.
+Start processing Case_00637. unlabel
+above finished unlabel
+End processing Case_00637.
+Start processing Case_00693. unlabel
+above finished unlabel
+End processing Case_00693.
+Start processing Case_00821. unlabel
+above finished unlabel
+End processing Case_00821.
+Start processing Case_00899. unlabel
+above finished unlabel
+End processing Case_00899.
+Start processing Case_01016. unlabel
+above finished unlabel
+End processing Case_01016.
+Start processing Case_01099. unlabel
+above finished unlabel
+End processing Case_01099.
+Start processing Case_01171. unlabel
+above finished unlabel
+End processing Case_01171.
+Start processing Case_01306. unlabel
+above finished unlabel
+End processing Case_01306.
+Start processing Case_01412. unlabel
+above finished unlabel
+End processing Case_01412.
+Start processing Case_01570. unlabel
+above finished unlabel
+End processing Case_01570.
+Start processing Case_01816. unlabel
+above finished unlabel
+End processing Case_01816.
+Start processing Case_00052. unlabel
+above finished unlabel
+End processing Case_00052.
+Start processing Case_00226. unlabel
+above finished unlabel
+End processing Case_00226.
+Start processing Case_00291. unlabel
+above finished unlabel
+End processing Case_00291.
+Start processing Case_00348. unlabel
+above finished unlabel
+End processing Case_00348.
+Start processing Case_00390. unlabel
+above finished unlabel
+End processing Case_00390.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00448_0000.nii.gz!
+Start processing Case_00448. unlabel
+Start processing Case_00449. unlabel
+above finished unlabel
+End processing Case_00449.
+Start processing Case_00560. unlabel
+above finished unlabel
+End processing Case_00560.
+Start processing Case_00984. unlabel
+above finished unlabel
+End processing Case_00984.
+Start processing Case_01050. unlabel
+above finished unlabel
+End processing Case_01050.
+Start processing Case_01198. unlabel
+above finished unlabel
+End processing Case_01198.
+Start processing Case_01369. unlabel
+above finished unlabel
+End processing Case_01369.
+Start processing Case_01600. unlabel
+above finished unlabel
+End processing Case_01600.
+Start processing Case_01755. unlabel
+above finished unlabel
+End processing Case_01755.
+Start processing Case_01918. unlabel
+above finished unlabel
+End processing Case_01918.
+Start processing Case_00125. unlabel
+above finished unlabel
+End processing Case_00125.
+Start processing Case_00161. unlabel
+above finished unlabel
+End processing Case_00161.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00213_0000.nii.gz!
+Start processing Case_00213. unlabel
+Start processing Case_00216. unlabel
+above finished unlabel
+End processing Case_00216.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00423_0000.nii.gz!
+Start processing Case_00423. unlabel
+Start processing Case_00424. unlabel
+above finished unlabel
+End processing Case_00424.
+Start processing Case_00526. unlabel
+above finished unlabel
+End processing Case_00526.
+Start processing Case_00683. unlabel
+above finished unlabel
+End processing Case_00683.
+Start processing Case_00900. unlabel
+above finished unlabel
+End processing Case_00900.
+Start processing Case_01025. unlabel
+above finished unlabel
+End processing Case_01025.
+Start processing Case_01175. unlabel
+above finished unlabel
+End processing Case_01175.
+Start processing Case_01352. unlabel
+above finished unlabel
+End processing Case_01352.
+Start processing Case_01526. unlabel
+above finished unlabel
+End processing Case_01526.
+Start processing Case_01703. unlabel
+above finished unlabel
+End processing Case_01703.
+Start processing Case_01905. unlabel
+above finished unlabel
+End processing Case_01905.
+Start processing Case_00081. unlabel
+above finished unlabel
+End processing Case_00081.
+Start processing Case_00148. unlabel
+above finished unlabel
+End processing Case_00148.
+Start processing Case_00193. unlabel
+above finished unlabel
+End processing Case_00193.
+Start processing Case_00254. unlabel
+above finished unlabel
+End processing Case_00254.
+Start processing Case_00336. unlabel
+above finished unlabel
+End processing Case_00336.
+Start processing Case_00420. unlabel
+above finished unlabel
+End processing Case_00420.
+Start processing Case_00587. unlabel
+above finished unlabel
+End processing Case_00587.
+Start processing Case_01303. unlabel
+above finished unlabel
+End processing Case_01303.
+Start processing Case_01376. unlabel
+above finished unlabel
+End processing Case_01376.
+Start processing Case_01528. unlabel
+above finished unlabel
+End processing Case_01528.
+Start processing Case_01711. unlabel
+above finished unlabel
+End processing Case_01711.
+Start processing Case_01812. unlabel
+above finished unlabel
+End processing Case_01812.
+Start processing Case_00074. unlabel
+above finished unlabel
+End processing Case_00074.
+Start processing Case_00470. unlabel
+above finished unlabel
+End processing Case_00470.
+Start processing Case_00630. unlabel
+above finished unlabel
+End processing Case_00630.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00712_0000.nii.gz!
+Start processing Case_00712. unlabel
+Start processing Case_00714. unlabel
+above finished unlabel
+End processing Case_00714.
+Start processing Case_00826. unlabel
+above finished unlabel
+End processing Case_00826.
+Start processing Case_00891. unlabel
+above finished unlabel
+End processing Case_00891.
+Start processing Case_00960. unlabel
+above finished unlabel
+End processing Case_00960.
+Start processing Case_01132. unlabel
+above finished unlabel
+End processing Case_01132.
+Start processing Case_01268. unlabel
+above finished unlabel
+End processing Case_01268.
+Start processing Case_01464. unlabel
+above finished unlabel
+End processing Case_01464.
+Start processing Case_01678. unlabel
+above finished unlabel
+End processing Case_01678.
+Start processing Case_01773. unlabel
+above finished unlabel
+End processing Case_01773.
+Start processing Case_01947. unlabel
+above finished unlabel
+End processing Case_01947.
+Start processing FLARE22_Tr_0014. train
+above finished train
+End processing FLARE22_Tr_0014.
+Start processing Case_00771. unlabel
+above finished unlabel
+End processing Case_00771.
+Start processing Case_00827. unlabel
+above finished unlabel
+End processing Case_00827.
+Start processing Case_00936. unlabel
+above finished unlabel
+End processing Case_00936.
+Start processing Case_01049. unlabel
+above finished unlabel
+End processing Case_01049.
+Start processing Case_01241. unlabel
+above finished unlabel
+End processing Case_01241.
+Start processing Case_01386. unlabel
+above finished unlabel
+End processing Case_01386.
+Start processing Case_01646. unlabel
+above finished unlabel
+End processing Case_01646.
+Start processing Case_01931. unlabel
+above finished unlabel
+End processing Case_01931.
+Start processing FLARE22_Tr_0032. train
+above finished train
+End processing FLARE22_Tr_0032.
+Start processing Case_00527. unlabel
+above finished unlabel
+End processing Case_00527.
+Start processing Case_01167. unlabel
+above finished unlabel
+End processing Case_01167.
+Start processing Case_01307. unlabel
+above finished unlabel
+End processing Case_01307.
+Start processing Case_01496. unlabel
+above finished unlabel
+End processing Case_01496.
+Start processing Case_01662. unlabel
+above finished unlabel
+End processing Case_01662.
+Start processing Case_01792. unlabel
+above finished unlabel
+End processing Case_01792.
+Start processing Case_01956. unlabel
+above finished unlabel
+End processing Case_01956.
+Start processing FLARE22_Tr_0007. train
+above finished train
+End processing FLARE22_Tr_0007.
+Start processing Case_00840. unlabel
+above finished unlabel
+End processing Case_00840.
+Start processing Case_00990. unlabel
+above finished unlabel
+End processing Case_00990.
+Start processing Case_01054. unlabel
+above finished unlabel
+End processing Case_01054.
+Start processing Case_01273. unlabel
+above finished unlabel
+End processing Case_01273.
+Start processing Case_01416. unlabel
+above finished unlabel
+End processing Case_01416.
+Start processing Case_01581. unlabel
+above finished unlabel
+End processing Case_01581.
+Start processing Case_01928. unlabel
+above finished unlabel
+End processing Case_01928.
+Start processing Case_00119. unlabel
+above finished unlabel
+End processing Case_00119.
+Start processing Case_00290. unlabel
+above finished unlabel
+End processing Case_00290.
+Start processing Case_00387. unlabel
+above finished unlabel
+End processing Case_00387.
+Start processing Case_00484. unlabel
+above finished unlabel
+End processing Case_00484.
+Start processing Case_00543. unlabel
+above finished unlabel
+End processing Case_00543.
+Start processing Case_01436. unlabel
+above finished unlabel
+End processing Case_01436.
+Start processing Case_01647. unlabel
+above finished unlabel
+End processing Case_01647.
+Start processing Case_01768. unlabel
+above finished unlabel
+End processing Case_01768.
+Start processing Case_01941. unlabel
+above finished unlabel
+End processing Case_01941.
+Start processing Case_00002. unlabel
+above finished unlabel
+End processing Case_00002.
+Start processing Case_00140. unlabel
+above finished unlabel
+End processing Case_00140.
+Start processing Case_00266. unlabel
+above finished unlabel
+End processing Case_00266.
+Start processing Case_00508. unlabel
+above finished unlabel
+End processing Case_00508.
+Start processing Case_00617. unlabel
+above finished unlabel
+End processing Case_00617.
+Start processing Case_00741. unlabel
+above finished unlabel
+End processing Case_00741.
+Start processing Case_01126. unlabel
+above finished unlabel
+End processing Case_01126.
+Start processing Case_01227. unlabel
+above finished unlabel
+End processing Case_01227.
+Start processing Case_01349. unlabel
+above finished unlabel
+End processing Case_01349.
+Start processing Case_01517. unlabel
+above finished unlabel
+End processing Case_01517.
+Start processing Case_01689. unlabel
+above finished unlabel
+End processing Case_01689.
+Start processing Case_01729. unlabel
+above finished unlabel
+End processing Case_01729.
+Start processing Case_01879. unlabel
+above finished unlabel
+End processing Case_01879.
+Start processing Case_00093. unlabel
+above finished unlabel
+End processing Case_00093.
+Start processing Case_00180. unlabel
+above finished unlabel
+End processing Case_00180.
+Start processing Case_00317. unlabel
+above finished unlabel
+End processing Case_00317.
+Start processing Case_00378. unlabel
+above finished unlabel
+End processing Case_00378.
+Start processing Case_00464. unlabel
+above finished unlabel
+End processing Case_00464.
+Start processing Case_00550. unlabel
+above finished unlabel
+End processing Case_00550.
+Start processing Case_00616. unlabel
+above finished unlabel
+End processing Case_00616.
+Start processing Case_00674. unlabel
+above finished unlabel
+End processing Case_00674.
+Start processing Case_00819. unlabel
+above finished unlabel
+End processing Case_00819.
+Start processing Case_00889. unlabel
+above finished unlabel
+End processing Case_00889.
+Start processing Case_00949. unlabel
+above finished unlabel
+End processing Case_00949.
+Start processing Case_01354. unlabel
+above finished unlabel
+End processing Case_01354.
+Start processing Case_01521. unlabel
+above finished unlabel
+End processing Case_01521.
+Start processing Case_01875. unlabel
+above finished unlabel
+End processing Case_01875.
+Start processing Case_00075. unlabel
+above finished unlabel
+End processing Case_00075.
+Start processing Case_00328. unlabel
+above finished unlabel
+End processing Case_00328.
+Start processing Case_00353. unlabel
+above finished unlabel
+End processing Case_00353.
+Start processing Case_00452. unlabel
+above finished unlabel
+End processing Case_00452.
+Start processing Case_00769. unlabel
+above finished unlabel
+End processing Case_00769.
+Start processing Case_00806. unlabel
+above finished unlabel
+End processing Case_00806.
+Start processing Case_00865. unlabel
+above finished unlabel
+End processing Case_00865.
+Start processing Case_00927. unlabel
+above finished unlabel
+End processing Case_00927.
+Start processing Case_01129. unlabel
+above finished unlabel
+End processing Case_01129.
+Start processing Case_01263. unlabel
+above finished unlabel
+End processing Case_01263.
+Start processing Case_01500. unlabel
+above finished unlabel
+End processing Case_01500.
+Start processing Case_01671. unlabel
+above finished unlabel
+End processing Case_01671.
+Start processing Case_01771. unlabel
+above finished unlabel
+End processing Case_01771.
+Start processing Case_01958. unlabel
+above finished unlabel
+End processing Case_01958.
+Start processing FLARE22_Tr_0022. train
+above finished train
+End processing FLARE22_Tr_0022.
+Start processing Case_00841. unlabel
+above finished unlabel
+End processing Case_00841.
+Start processing Case_00969. unlabel
+above finished unlabel
+End processing Case_00969.
+Start processing Case_01254. unlabel
+above finished unlabel
+End processing Case_01254.
+Start processing Case_01411. unlabel
+above finished unlabel
+End processing Case_01411.
+Start processing Case_01559. unlabel
+above finished unlabel
+End processing Case_01559.
+Start processing Case_01746. unlabel
+above finished unlabel
+End processing Case_01746.
+Start processing Case_01874. unlabel
+above finished unlabel
+End processing Case_01874.
+Start processing Case_00098. unlabel
+above finished unlabel
+End processing Case_00098.
+Start processing Case_00182. unlabel
+above finished unlabel
+End processing Case_00182.
+Start processing Case_00324. unlabel
+above finished unlabel
+End processing Case_00324.
+Start processing Case_00370. unlabel
+above finished unlabel
+End processing Case_00370.
+Start processing Case_00431. unlabel
+above finished unlabel
+End processing Case_00431.
+Start processing Case_00599. unlabel
+above finished unlabel
+End processing Case_00599.
+Start processing Case_00650. unlabel
+above finished unlabel
+End processing Case_00650.
+Start processing Case_00735. unlabel
+above finished unlabel
+End processing Case_00735.
+Start processing Case_00976. unlabel
+above finished unlabel
+End processing Case_00976.
+Start processing Case_01105. unlabel
+above finished unlabel
+End processing Case_01105.
+Start processing Case_01236. unlabel
+above finished unlabel
+End processing Case_01236.
+Start processing Case_01362. unlabel
+above finished unlabel
+End processing Case_01362.
+Start processing Case_01523. unlabel
+above finished unlabel
+End processing Case_01523.
+Start processing Case_01934. unlabel
+above finished unlabel
+End processing Case_01934.
+Start processing Case_00069. unlabel
+above finished unlabel
+End processing Case_00069.
+Start processing Case_00426. unlabel
+above finished unlabel
+End processing Case_00426.
+Start processing Case_00545. unlabel
+above finished unlabel
+End processing Case_00545.
+Start processing Case_01211. unlabel
+above finished unlabel
+End processing Case_01211.
+Start processing Case_01415. unlabel
+above finished unlabel
+End processing Case_01415.
+Start processing Case_01663. unlabel
+above finished unlabel
+End processing Case_01663.
+Start processing Case_01878. unlabel
+above finished unlabel
+End processing Case_01878.
+Start processing Case_00096. unlabel
+above finished unlabel
+End processing Case_00096.
+Start processing Case_00187. unlabel
+above finished unlabel
+End processing Case_00187.
+Start processing Case_00289. unlabel
+above finished unlabel
+End processing Case_00289.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00405_0000.nii.gz!
+Start processing Case_00405. unlabel
+Start processing Case_00409. unlabel
+above finished unlabel
+End processing Case_00409.
+Start processing Case_00524. unlabel
+above finished unlabel
+End processing Case_00524.
+Start processing Case_00831. unlabel
+above finished unlabel
+End processing Case_00831.
+Start processing Case_00892. unlabel
+above finished unlabel
+End processing Case_00892.
+Start processing Case_00981. unlabel
+above finished unlabel
+End processing Case_00981.
+Start processing Case_01064. unlabel
+above finished unlabel
+End processing Case_01064.
+Start processing Case_01149. unlabel
+above finished unlabel
+End processing Case_01149.
+Start processing Case_01261. unlabel
+above finished unlabel
+End processing Case_01261.
+Start processing Case_01438. unlabel
+above finished unlabel
+End processing Case_01438.
+Start processing Case_01593. unlabel
+above finished unlabel
+End processing Case_01593.
+Start processing Case_01933. unlabel
+above finished unlabel
+End processing Case_01933.
+Start processing FLARE22_Tr_0002. train
+above finished train
+End processing FLARE22_Tr_0002.
+Start processing Case_00858. unlabel
+above finished unlabel
+End processing Case_00858.
+Start processing Case_00945. unlabel
+above finished unlabel
+End processing Case_00945.
+Start processing Case_01512. unlabel
+above finished unlabel
+End processing Case_01512.
+Start processing Case_01693. unlabel
+above finished unlabel
+End processing Case_01693.
+Start processing Case_01883. unlabel
+above finished unlabel
+End processing Case_01883.
+Start processing Case_00033. unlabel
+above finished unlabel
+End processing Case_00033.
+Start processing Case_00202. unlabel
+above finished unlabel
+End processing Case_00202.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00733_0000.nii.gz!
+Start processing Case_00733. unlabel
+Start processing Case_00734. unlabel
+above finished unlabel
+End processing Case_00734.
+Start processing Case_00783. unlabel
+above finished unlabel
+End processing Case_00783.
+Start processing Case_01327. unlabel
+above finished unlabel
+End processing Case_01327.
+Start processing Case_01494. unlabel
+above finished unlabel
+End processing Case_01494.
+Start processing Case_01696. unlabel
+above finished unlabel
+End processing Case_01696.
+Start processing Case_01923. unlabel
+above finished unlabel
+End processing Case_01923.
+Start processing Case_00114. unlabel
+above finished unlabel
+End processing Case_00114.
+Start processing Case_00295. unlabel
+above finished unlabel
+End processing Case_00295.
+Start processing Case_00360. unlabel
+above finished unlabel
+End processing Case_00360.
+Start processing Case_00473. unlabel
+above finished unlabel
+End processing Case_00473.
+Start processing Case_00614. unlabel
+above finished unlabel
+End processing Case_00614.
+Start processing Case_00665. unlabel
+above finished unlabel
+End processing Case_00665.
+Start processing Case_00824. unlabel
+above finished unlabel
+End processing Case_00824.
+Start processing Case_00903. unlabel
+above finished unlabel
+End processing Case_00903.
+Start processing Case_01039. unlabel
+above finished unlabel
+End processing Case_01039.
+Start processing Case_01208. unlabel
+above finished unlabel
+End processing Case_01208.
+Start processing Case_01507. unlabel
+above finished unlabel
+End processing Case_01507.
+Start processing Case_01948. unlabel
+above finished unlabel
+End processing Case_01948.
+Start processing FLARE22_Tr_0035. train
+above finished train
+End processing FLARE22_Tr_0035.
+Start processing Case_00867. unlabel
+above finished unlabel
+End processing Case_00867.
+Start processing Case_00994. unlabel
+above finished unlabel
+End processing Case_00994.
+Start processing Case_01127. unlabel
+above finished unlabel
+End processing Case_01127.
+Start processing Case_01240. unlabel
+above finished unlabel
+End processing Case_01240.
+Start processing Case_01489. unlabel
+above finished unlabel
+End processing Case_01489.
+Start processing Case_01661. unlabel
+above finished unlabel
+End processing Case_01661.
+Start processing Case_01904. unlabel
+above finished unlabel
+End processing Case_01904.
+Start processing FLARE22_Tr_0005. train
+above finished train
+End processing FLARE22_Tr_0005.
+Start processing Case_00798. unlabel
+above finished unlabel
+End processing Case_00798.
+Start processing Case_00902. unlabel
+above finished unlabel
+End processing Case_00902.
+Start processing Case_01044. unlabel
+above finished unlabel
+End processing Case_01044.
+Start processing Case_01195. unlabel
+above finished unlabel
+End processing Case_01195.
+Start processing Case_01323. unlabel
+above finished unlabel
+End processing Case_01323.
+Start processing Case_01473. unlabel
+above finished unlabel
+End processing Case_01473.
+Start processing Case_01626. unlabel
+above finished unlabel
+End processing Case_01626.
+Start processing Case_01809. unlabel
+above finished unlabel
+End processing Case_01809.
+Start processing Case_01955. unlabel
+above finished unlabel
+End processing Case_01955.
+Start processing Case_00095. unlabel
+above finished unlabel
+End processing Case_00095.
+Start processing Case_00196. unlabel
+above finished unlabel
+End processing Case_00196.
+Start processing Case_00298. unlabel
+above finished unlabel
+End processing Case_00298.
+Start processing Case_01262. unlabel
+above finished unlabel
+End processing Case_01262.
+Start processing Case_01419. unlabel
+above finished unlabel
+End processing Case_01419.
+Start processing Case_01577. unlabel
+above finished unlabel
+End processing Case_01577.
+Start processing Case_01727. unlabel
+above finished unlabel
+End processing Case_01727.
+Start processing Case_01929. unlabel
+above finished unlabel
+End processing Case_01929.
+Start processing Case_00104. unlabel
+above finished unlabel
+End processing Case_00104.
+Start processing Case_00184. unlabel
+above finished unlabel
+End processing Case_00184.
+Start processing Case_00258. unlabel
+above finished unlabel
+End processing Case_00258.
+Start processing Case_00331. unlabel
+above finished unlabel
+End processing Case_00331.
+Start processing Case_00391. unlabel
+above finished unlabel
+End processing Case_00391.
+Start processing Case_00519. unlabel
+above finished unlabel
+End processing Case_00519.
+Start processing Case_00604. unlabel
+above finished unlabel
+End processing Case_00604.
+Start processing Case_00663. unlabel
+above finished unlabel
+End processing Case_00663.
+Start processing Case_00740. unlabel
+above finished unlabel
+End processing Case_00740.
+Start processing Case_00843. unlabel
+above finished unlabel
+End processing Case_00843.
+Start processing Case_00919. unlabel
+above finished unlabel
+End processing Case_00919.
+Start processing Case_01030. unlabel
+above finished unlabel
+End processing Case_01030.
+Start processing Case_01216. unlabel
+above finished unlabel
+End processing Case_01216.
+Start processing Case_01365. unlabel
+above finished unlabel
+End processing Case_01365.
+Start processing Case_01653. unlabel
+above finished unlabel
+End processing Case_01653.
+Start processing Case_01880. unlabel
+above finished unlabel
+End processing Case_01880.
+Start processing Case_00017. unlabel
+above finished unlabel
+End processing Case_00017.
+Start processing Case_00297. unlabel
+above finished unlabel
+End processing Case_00297.
+Start processing Case_00389. unlabel
+above finished unlabel
+End processing Case_00389.
+Start processing Case_00478. unlabel
+above finished unlabel
+End processing Case_00478.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00549_0000.nii.gz!
+Start processing Case_00549. unlabel
+Start processing Case_00551. unlabel
+above finished unlabel
+End processing Case_00551.
+Start processing Case_00654. unlabel
+above finished unlabel
+End processing Case_00654.
+Start processing Case_00721. unlabel
+above finished unlabel
+End processing Case_00721.
+Start processing Case_00773. unlabel
+above finished unlabel
+End processing Case_00773.
+Start processing Case_00813. unlabel
+above finished unlabel
+End processing Case_00813.
+Start processing Case_00931. unlabel
+above finished unlabel
+End processing Case_00931.
+Start processing Case_01484. unlabel
+above finished unlabel
+End processing Case_01484.
+Start processing Case_01640. unlabel
+above finished unlabel
+End processing Case_01640.
+Start processing Case_01761. unlabel
+above finished unlabel
+End processing Case_01761.
+Start processing Case_01946. unlabel
+above finished unlabel
+End processing Case_01946.
+Start processing FLARE22_Tr_0039. train
+above finished train
+End processing FLARE22_Tr_0039.
+Start processing Case_00490. unlabel
+above finished unlabel
+End processing Case_00490.
+Start processing Case_00548. unlabel
+above finished unlabel
+End processing Case_00548.
+Start processing Case_00609. unlabel
+above finished unlabel
+End processing Case_00609.
+Start processing Case_00667. unlabel
+above finished unlabel
+End processing Case_00667.
+Start processing Case_00828. unlabel
+above finished unlabel
+End processing Case_00828.
+Start processing Case_00917. unlabel
+above finished unlabel
+End processing Case_00917.
+Start processing Case_01029. unlabel
+above finished unlabel
+End processing Case_01029.
+Start processing Case_01131. unlabel
+above finished unlabel
+End processing Case_01131.
+Start processing Case_01192. unlabel
+above finished unlabel
+End processing Case_01192.
+Start processing Case_01350. unlabel
+above finished unlabel
+End processing Case_01350.
+Start processing Case_01522. unlabel
+above finished unlabel
+End processing Case_01522.
+Start processing Case_01865. unlabel
+above finished unlabel
+End processing Case_01865.
+Start processing Case_00092. unlabel
+above finished unlabel
+End processing Case_00092.
+Start processing Case_00147. unlabel
+above finished unlabel
+End processing Case_00147.
+Start processing Case_00233. unlabel
+above finished unlabel
+End processing Case_00233.
+Start processing Case_00322. unlabel
+above finished unlabel
+End processing Case_00322.
+Start processing Case_00352. unlabel
+above finished unlabel
+End processing Case_00352.
+Start processing Case_00404. unlabel
+above finished unlabel
+End processing Case_00404.
+Start processing Case_00533. unlabel
+above finished unlabel
+End processing Case_00533.
+Start processing Case_00823. unlabel
+above finished unlabel
+End processing Case_00823.
+Start processing Case_00934. unlabel
+above finished unlabel
+End processing Case_00934.
+Start processing Case_01020. unlabel
+above finished unlabel
+End processing Case_01020.
+Start processing Case_01212. unlabel
+above finished unlabel
+End processing Case_01212.
+Start processing Case_01435. unlabel
+above finished unlabel
+End processing Case_01435.
+Start processing Case_01672. unlabel
+above finished unlabel
+End processing Case_01672.
+Start processing Case_01877. unlabel
+above finished unlabel
+End processing Case_01877.
+Start processing Case_00005. unlabel
+above finished unlabel
+End processing Case_00005.
+Start processing Case_00142. unlabel
+above finished unlabel
+End processing Case_00142.
+Start processing Case_00265. unlabel
+above finished unlabel
+End processing Case_00265.
+Start processing Case_00651. unlabel
+above finished unlabel
+End processing Case_00651.
+Start processing Case_00711. unlabel
+above finished unlabel
+End processing Case_00711.
+Start processing Case_01253. unlabel
+above finished unlabel
+End processing Case_01253.
+Start processing Case_01477. unlabel
+above finished unlabel
+End processing Case_01477.
+Start processing Case_01681. unlabel
+above finished unlabel
+End processing Case_01681.
+Start processing Case_01913. unlabel
+above finished unlabel
+End processing Case_01913.
+Start processing Case_00062. unlabel
+above finished unlabel
+End processing Case_00062.
+Start processing Case_00162. unlabel
+above finished unlabel
+End processing Case_00162.
+Start processing Case_00199. unlabel
+above finished unlabel
+End processing Case_00199.
+Start processing Case_00253. unlabel
+above finished unlabel
+End processing Case_00253.
+Start processing Case_00450. unlabel
+above finished unlabel
+End processing Case_00450.
+Start processing Case_01002. unlabel
+above finished unlabel
+End processing Case_01002.
+Start processing Case_01115. unlabel
+above finished unlabel
+End processing Case_01115.
+Start processing Case_01270. unlabel
+above finished unlabel
+End processing Case_01270.
+Start processing Case_01394. unlabel
+above finished unlabel
+End processing Case_01394.
+Start processing Case_01556. unlabel
+above finished unlabel
+End processing Case_01556.
+Start processing Case_01732. unlabel
+above finished unlabel
+End processing Case_01732.
+Start processing Case_01854. unlabel
+above finished unlabel
+End processing Case_01854.
+Start processing FLARE22_Tr_0044. train
+above finished train
+End processing FLARE22_Tr_0044.
+Start processing Case_00871. unlabel
+above finished unlabel
+End processing Case_00871.
+Start processing Case_00996. unlabel
+above finished unlabel
+End processing Case_00996.
+Start processing Case_01075. unlabel
+above finished unlabel
+End processing Case_01075.
+Start processing Case_01163. unlabel
+above finished unlabel
+End processing Case_01163.
+Start processing Case_01321. unlabel
+above finished unlabel
+End processing Case_01321.
+Start processing Case_01499. unlabel
+above finished unlabel
+End processing Case_01499.
+Start processing Case_01699. unlabel
+above finished unlabel
+End processing Case_01699.
+Start processing Case_01870. unlabel
+above finished unlabel
+End processing Case_01870.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00011_0000.nii.gz!
+Start processing Case_00011. unlabel
+Start processing Case_00133. unlabel
+above finished unlabel
+End processing Case_00133.
+Start processing Case_00144. unlabel
+above finished unlabel
+End processing Case_00144.
+Start processing Case_00256. unlabel
+above finished unlabel
+End processing Case_00256.
+Start processing Case_00356. unlabel
+above finished unlabel
+End processing Case_00356.
+Start processing Case_00439. unlabel
+above finished unlabel
+End processing Case_00439.
+Start processing Case_01462. unlabel
+above finished unlabel
+End processing Case_01462.
+Start processing Case_01675. unlabel
+above finished unlabel
+End processing Case_01675.
+Start processing Case_01754. unlabel
+above finished unlabel
+End processing Case_01754.
+Start processing Case_01914. unlabel
+above finished unlabel
+End processing Case_01914.
+Start processing Case_00085. unlabel
+above finished unlabel
+End processing Case_00085.
+Start processing Case_00170. unlabel
+above finished unlabel
+End processing Case_00170.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00251_0000.nii.gz!
+Start processing Case_00251. unlabel
+Start processing Case_00255. unlabel
+above finished unlabel
+End processing Case_00255.
+Start processing Case_00321. unlabel
+above finished unlabel
+End processing Case_00321.
+Start processing Case_00373. unlabel
+above finished unlabel
+End processing Case_00373.
+Start processing Case_00419. unlabel
+above finished unlabel
+End processing Case_00419.
+Start processing Case_00472. unlabel
+above finished unlabel
+End processing Case_00472.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00534_0000.nii.gz!
+Start processing Case_00534. unlabel
+Start processing Case_00535. unlabel
+above finished unlabel
+End processing Case_00535.
+Start processing Case_00603. unlabel
+above finished unlabel
+End processing Case_00603.
+Start processing Case_00684. unlabel
+above finished unlabel
+End processing Case_00684.
+Start processing Case_00751. unlabel
+above finished unlabel
+End processing Case_00751.
+Start processing Case_01162. unlabel
+above finished unlabel
+End processing Case_01162.
+Start processing Case_01296. unlabel
+above finished unlabel
+End processing Case_01296.
+Start processing Case_01441. unlabel
+above finished unlabel
+End processing Case_01441.
+Start processing Case_01667. unlabel
+above finished unlabel
+End processing Case_01667.
+Start processing Case_01782. unlabel
+above finished unlabel
+End processing Case_01782.
+Start processing Case_01961. unlabel
+above finished unlabel
+End processing Case_01961.
+Start processing Case_00039. unlabel
+above finished unlabel
+End processing Case_00039.
+Start processing Case_00399. unlabel
+above finished unlabel
+End processing Case_00399.
+Start processing Case_00485. unlabel
+above finished unlabel
+End processing Case_00485.
+Start processing Case_00575. unlabel
+above finished unlabel
+End processing Case_00575.
+Start processing Case_00690. unlabel
+above finished unlabel
+End processing Case_00690.
+Start processing Case_00801. unlabel
+above finished unlabel
+End processing Case_00801.
+Start processing Case_00901. unlabel
+above finished unlabel
+End processing Case_00901.
+Start processing Case_00970. unlabel
+above finished unlabel
+End processing Case_00970.
+Start processing Case_01271. unlabel
+above finished unlabel
+End processing Case_01271.
+Start processing Case_01457. unlabel
+above finished unlabel
+End processing Case_01457.
+Start processing Case_01649. unlabel
+above finished unlabel
+End processing Case_01649.
+Start processing Case_01750. unlabel
+above finished unlabel
+End processing Case_01750.
+Start processing Case_01912. unlabel
+above finished unlabel
+End processing Case_01912.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00057_0000.nii.gz!
+Start processing Case_00057. unlabel
+Start processing Case_00130. unlabel
+above finished unlabel
+End processing Case_00130.
+Start processing Case_00152. unlabel
+above finished unlabel
+End processing Case_00152.
+Start processing Case_00271. unlabel
+above finished unlabel
+End processing Case_00271.
+Start processing Case_00612. unlabel
+above finished unlabel
+End processing Case_00612.
+Start processing Case_00671. unlabel
+above finished unlabel
+End processing Case_00671.
+Start processing Case_00817. unlabel
+above finished unlabel
+End processing Case_00817.
+Start processing Case_00923. unlabel
+above finished unlabel
+End processing Case_00923.
+Start processing Case_01072. unlabel
+above finished unlabel
+End processing Case_01072.
+Start processing Case_01170. unlabel
+above finished unlabel
+End processing Case_01170.
+Start processing Case_01308. unlabel
+above finished unlabel
+End processing Case_01308.
+Start processing Case_01469. unlabel
+above finished unlabel
+End processing Case_01469.
+Start processing Case_01604. unlabel
+above finished unlabel
+End processing Case_01604.
+Start processing Case_01758. unlabel
+above finished unlabel
+End processing Case_01758.
+Start processing Case_01927. unlabel
+above finished unlabel
+End processing Case_01927.
+Start processing Case_00078. unlabel
+above finished unlabel
+End processing Case_00078.
+Start processing Case_00171. unlabel
+above finished unlabel
+End processing Case_00171.
+Start processing Case_00245. unlabel
+above finished unlabel
+End processing Case_00245.
+Start processing Case_00428. unlabel
+above finished unlabel
+End processing Case_00428.
+Start processing Case_00675. unlabel
+above finished unlabel
+End processing Case_00675.
+Start processing Case_00776. unlabel
+above finished unlabel
+End processing Case_00776.
+Start processing Case_00985. unlabel
+above finished unlabel
+End processing Case_00985.
+Start processing Case_01068. unlabel
+above finished unlabel
+End processing Case_01068.
+Start processing Case_01205. unlabel
+above finished unlabel
+End processing Case_01205.
+Start processing Case_01414. unlabel
+above finished unlabel
+End processing Case_01414.
+Start processing Case_01580. unlabel
+above finished unlabel
+End processing Case_01580.
+Start processing Case_01900. unlabel
+above finished unlabel
+End processing Case_01900.
+Start processing FLARE22_Tr_0048. train
+above finished train
+End processing FLARE22_Tr_0048.
+Start processing Case_00502. unlabel
+above finished unlabel
+End processing Case_00502.
+Start processing Case_00554. unlabel
+above finished unlabel
+End processing Case_00554.
+Start processing Case_00655. unlabel
+above finished unlabel
+End processing Case_00655.
+Start processing Case_00732. unlabel
+above finished unlabel
+End processing Case_00732.
+Start processing Case_00795. unlabel
+above finished unlabel
+End processing Case_00795.
+Start processing Case_00859. unlabel
+above finished unlabel
+End processing Case_00859.
+Start processing Case_00937. unlabel
+above finished unlabel
+End processing Case_00937.
+Start processing Case_01036. unlabel
+above finished unlabel
+End processing Case_01036.
+Start processing Case_01197. unlabel
+above finished unlabel
+End processing Case_01197.
+Start processing Case_01345. unlabel
+above finished unlabel
+End processing Case_01345.
+Start processing Case_01515. unlabel
+above finished unlabel
+End processing Case_01515.
+Start processing Case_01610. unlabel
+above finished unlabel
+End processing Case_01610.
+Start processing Case_01739. unlabel
+above finished unlabel
+End processing Case_01739.
+Start processing Case_01862. unlabel
+above finished unlabel
+End processing Case_01862.
+Start processing Case_00123. unlabel
+above finished unlabel
+End processing Case_00123.
+Start processing Case_00165. unlabel
+above finished unlabel
+End processing Case_00165.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00205_0000.nii.gz!
+Start processing Case_00205. unlabel
+Start processing Case_00206. unlabel
+above finished unlabel
+End processing Case_00206.
+Start processing Case_00304. unlabel
+above finished unlabel
+End processing Case_00304.
+Start processing Case_00479. unlabel
+above finished unlabel
+End processing Case_00479.
+Start processing Case_00528. unlabel
+above finished unlabel
+End processing Case_00528.
+Start processing Case_00752. unlabel
+above finished unlabel
+End processing Case_00752.
+Start processing Case_01217. unlabel
+above finished unlabel
+End processing Case_01217.
+Start processing Case_01408. unlabel
+above finished unlabel
+End processing Case_01408.
+Start processing Case_01594. unlabel
+above finished unlabel
+End processing Case_01594.
+Start processing Case_01860. unlabel
+above finished unlabel
+End processing Case_01860.
+Start processing Case_00090. unlabel
+above finished unlabel
+End processing Case_00090.
+Start processing Case_00177. unlabel
+above finished unlabel
+End processing Case_00177.
+Start processing Case_00261. unlabel
+above finished unlabel
+End processing Case_00261.
+Start processing Case_00738. unlabel
+above finished unlabel
+End processing Case_00738.
+Start processing Case_00925. unlabel
+above finished unlabel
+End processing Case_00925.
+Start processing Case_01095. unlabel
+above finished unlabel
+End processing Case_01095.
+Start processing Case_01177. unlabel
+above finished unlabel
+End processing Case_01177.
+Start processing Case_01396. unlabel
+above finished unlabel
+End processing Case_01396.
+Start processing Case_01564. unlabel
+above finished unlabel
+End processing Case_01564.
+Start processing Case_01932. unlabel
+above finished unlabel
+End processing Case_01932.
+Start processing FLARE22_Tr_0033. train
+above finished train
+End processing FLARE22_Tr_0033.
+Start processing Case_00529. unlabel
+above finished unlabel
+End processing Case_00529.
+Start processing Case_01074. unlabel
+above finished unlabel
+End processing Case_01074.
+Start processing Case_01135. unlabel
+above finished unlabel
+End processing Case_01135.
+Start processing Case_01238. unlabel
+above finished unlabel
+End processing Case_01238.
+Start processing Case_01440. unlabel
+above finished unlabel
+End processing Case_01440.
+Start processing Case_01658. unlabel
+above finished unlabel
+End processing Case_01658.
+Start processing Case_01745. unlabel
+above finished unlabel
+End processing Case_01745.
+Start processing Case_01857. unlabel
+above finished unlabel
+End processing Case_01857.
+Start processing FLARE22_Tr_0017. train
+above finished train
+End processing FLARE22_Tr_0017.
+Start processing Case_00890. unlabel
+above finished unlabel
+End processing Case_00890.
+Start processing Case_00978. unlabel
+above finished unlabel
+End processing Case_00978.
+Start processing Case_01035. unlabel
+above finished unlabel
+End processing Case_01035.
+Start processing Case_01142. unlabel
+above finished unlabel
+End processing Case_01142.
+Start processing Case_01229. unlabel
+above finished unlabel
+End processing Case_01229.
+Start processing Case_01410. unlabel
+above finished unlabel
+End processing Case_01410.
+Start processing Case_01590. unlabel
+above finished unlabel
+End processing Case_01590.
+Start processing Case_01723. unlabel
+above finished unlabel
+End processing Case_01723.
+Start processing Case_01838. unlabel
+above finished unlabel
+End processing Case_01838.
+Start processing FLARE22_Tr_0008. train
+above finished train
+End processing FLARE22_Tr_0008.
+Start processing Case_00820. unlabel
+above finished unlabel
+End processing Case_00820.
+Start processing Case_00980. unlabel
+above finished unlabel
+End processing Case_00980.
+Start processing Case_01093. unlabel
+above finished unlabel
+End processing Case_01093.
+Start processing Case_01187. unlabel
+above finished unlabel
+End processing Case_01187.
+Start processing Case_01371. unlabel
+above finished unlabel
+End processing Case_01371.
+Start processing Case_01565. unlabel
+above finished unlabel
+End processing Case_01565.
+Start processing Case_01764. unlabel
+above finished unlabel
+End processing Case_01764.
+Start processing Case_01942. unlabel
+above finished unlabel
+End processing Case_01942.
+Start processing FLARE22_Tr_0030. train
+above finished train
+End processing FLARE22_Tr_0030.
+Start processing Case_00597. unlabel
+above finished unlabel
+End processing Case_00597.
+Start processing Case_00632. unlabel
+above finished unlabel
+End processing Case_00632.
+Start processing Case_00713. unlabel
+above finished unlabel
+End processing Case_00713.
+Start processing Case_00753. unlabel
+above finished unlabel
+End processing Case_00753.
+Start processing Case_00845. unlabel
+above finished unlabel
+End processing Case_00845.
+Start processing Case_00930. unlabel
+above finished unlabel
+End processing Case_00930.
+Start processing Case_01037. unlabel
+above finished unlabel
+End processing Case_01037.
+Start processing Case_01107. unlabel
+above finished unlabel
+End processing Case_01107.
+Start processing Case_01188. unlabel
+above finished unlabel
+End processing Case_01188.
+Start processing Case_01343. unlabel
+above finished unlabel
+End processing Case_01343.
+Start processing Case_01588. unlabel
+above finished unlabel
+End processing Case_01588.
+Start processing Case_01730. unlabel
+above finished unlabel
+End processing Case_01730.
+Start processing Case_01839. unlabel
+above finished unlabel
+End processing Case_01839.
+Start processing Case_00073. unlabel
+above finished unlabel
+End processing Case_00073.
+Start processing Case_00362. unlabel
+above finished unlabel
+End processing Case_00362.
+Start processing Case_00430. unlabel
+above finished unlabel
+End processing Case_00430.
+Start processing Case_00498. unlabel
+above finished unlabel
+End processing Case_00498.
+Start processing Case_00563. unlabel
+above finished unlabel
+End processing Case_00563.
+Start processing Case_01063. unlabel
+above finished unlabel
+End processing Case_01063.
+Start processing Case_01157. unlabel
+above finished unlabel
+End processing Case_01157.
+Start processing Case_01290. unlabel
+above finished unlabel
+End processing Case_01290.
+Start processing Case_01377. unlabel
+above finished unlabel
+End processing Case_01377.
+Start processing Case_01606. unlabel
+above finished unlabel
+End processing Case_01606.
+Start processing Case_01731. unlabel
+above finished unlabel
+End processing Case_01731.
+Start processing Case_01840. unlabel
+above finished unlabel
+End processing Case_01840.
+Start processing Case_00019. unlabel
+above finished unlabel
+End processing Case_00019.
+Start processing Case_00327. unlabel
+above finished unlabel
+End processing Case_00327.
+Start processing Case_00436. unlabel
+above finished unlabel
+End processing Case_00436.
+Start processing Case_00542. unlabel
+above finished unlabel
+End processing Case_00542.
+Start processing Case_01338. unlabel
+above finished unlabel
+End processing Case_01338.
+Start processing Case_01542. unlabel
+above finished unlabel
+End processing Case_01542.
+Start processing Case_01704. unlabel
+above finished unlabel
+End processing Case_01704.
+Start processing Case_01794. unlabel
+above finished unlabel
+End processing Case_01794.
+Start processing Case_01950. unlabel
+above finished unlabel
+End processing Case_01950.
+Start processing FLARE22_Tr_0003. train
+above finished train
+End processing FLARE22_Tr_0003.
+Start processing Case_00848. unlabel
+above finished unlabel
+End processing Case_00848.
+Start processing Case_00926. unlabel
+above finished unlabel
+End processing Case_00926.
+Start processing Case_01091. unlabel
+above finished unlabel
+End processing Case_01091.
+Start processing Case_01250. unlabel
+above finished unlabel
+End processing Case_01250.
+Start processing Case_01480. unlabel
+above finished unlabel
+End processing Case_01480.
+Start processing Case_01648. unlabel
+above finished unlabel
+End processing Case_01648.
+Start processing Case_01861. unlabel
+above finished unlabel
+End processing Case_01861.
+Start processing Case_00126. unlabel
+above finished unlabel
+End processing Case_00126.
+Start processing Case_00169. unlabel
+above finished unlabel
+End processing Case_00169.
+Start processing Case_00259. unlabel
+above finished unlabel
+End processing Case_00259.
+Start processing Case_00340. unlabel
+above finished unlabel
+End processing Case_00340.
+Start processing Case_00412. unlabel
+above finished unlabel
+End processing Case_00412.
+Start processing Case_00541. unlabel
+above finished unlabel
+End processing Case_00541.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00676_0000.nii.gz!
+Start processing Case_00676. unlabel
+Start processing Case_00677. unlabel
+above finished unlabel
+End processing Case_00677.
+Start processing Case_00846. unlabel
+above finished unlabel
+End processing Case_00846.
+Start processing Case_00968. unlabel
+above finished unlabel
+End processing Case_00968.
+Start processing Case_01285. unlabel
+above finished unlabel
+End processing Case_01285.
+Start processing Case_01381. unlabel
+above finished unlabel
+End processing Case_01381.
+Start processing Case_01540. unlabel
+above finished unlabel
+End processing Case_01540.
+Start processing Case_01708. unlabel
+above finished unlabel
+End processing Case_01708.
+Start processing Case_01864. unlabel
+above finished unlabel
+End processing Case_01864.
+Start processing Case_00106. unlabel
+above finished unlabel
+End processing Case_00106.
+Start processing Case_00175. unlabel
+above finished unlabel
+End processing Case_00175.
+Start processing Case_00300. unlabel
+above finished unlabel
+End processing Case_00300.
+Start processing Case_00640. unlabel
+above finished unlabel
+End processing Case_00640.
+Start processing Case_00710. unlabel
+above finished unlabel
+End processing Case_00710.
+Start processing Case_00794. unlabel
+above finished unlabel
+End processing Case_00794.
+Start processing Case_00966. unlabel
+above finished unlabel
+End processing Case_00966.
+Start processing Case_01280. unlabel
+above finished unlabel
+End processing Case_01280.
+Start processing Case_01424. unlabel
+above finished unlabel
+End processing Case_01424.
+Start processing Case_01562. unlabel
+above finished unlabel
+End processing Case_01562.
+Start processing Case_01717. unlabel
+above finished unlabel
+End processing Case_01717.
+Start processing Case_01924. unlabel
+above finished unlabel
+End processing Case_01924.
+Start processing Case_00127. unlabel
+above finished unlabel
+End processing Case_00127.
+Start processing Case_00173. unlabel
+above finished unlabel
+End processing Case_00173.
+Start processing Case_00211. unlabel
+above finished unlabel
+End processing Case_00211.
+Start processing Case_00286. unlabel
+above finished unlabel
+End processing Case_00286.
+Start processing Case_00337. unlabel
+above finished unlabel
+End processing Case_00337.
+Start processing Case_00377. unlabel
+above finished unlabel
+End processing Case_00377.
+Start processing Case_00463. unlabel
+above finished unlabel
+End processing Case_00463.
+Start processing Case_00553. unlabel
+above finished unlabel
+End processing Case_00553.
+Start processing Case_00652. unlabel
+above finished unlabel
+End processing Case_00652.
+Start processing Case_00724. unlabel
+above finished unlabel
+End processing Case_00724.
+Start processing Case_00772. unlabel
+above finished unlabel
+End processing Case_00772.
+Start processing Case_00822. unlabel
+above finished unlabel
+End processing Case_00822.
+Start processing Case_00886. unlabel
+above finished unlabel
+End processing Case_00886.
+Start processing Case_00948. unlabel
+above finished unlabel
+End processing Case_00948.
+Start processing Case_01048. unlabel
+above finished unlabel
+End processing Case_01048.
+Start processing Case_01196. unlabel
+above finished unlabel
+End processing Case_01196.
+Start processing Case_01331. unlabel
+above finished unlabel
+End processing Case_01331.
+Start processing Case_01518. unlabel
+above finished unlabel
+End processing Case_01518.
+Start processing Case_01705. unlabel
+above finished unlabel
+End processing Case_01705.
+Start processing Case_01801. unlabel
+above finished unlabel
+End processing Case_01801.
+Start processing Case_01957. unlabel
+above finished unlabel
+End processing Case_01957.
+Start processing Case_00091. unlabel
+above finished unlabel
+End processing Case_00091.
+Start processing Case_00269. unlabel
+above finished unlabel
+End processing Case_00269.
+Start processing Case_00638. unlabel
+above finished unlabel
+End processing Case_00638.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00745_0000.nii.gz!
+Start processing Case_00745. unlabel
+Start processing Case_00746. unlabel
+above finished unlabel
+End processing Case_00746.
+Start processing Case_00962. unlabel
+above finished unlabel
+End processing Case_00962.
+Start processing Case_01504. unlabel
+above finished unlabel
+End processing Case_01504.
+Start processing Case_01624. unlabel
+above finished unlabel
+End processing Case_01624.
+Start processing Case_01837. unlabel
+above finished unlabel
+End processing Case_01837.
+Start processing Case_00124. unlabel
+above finished unlabel
+End processing Case_00124.
+Start processing Case_00174. unlabel
+above finished unlabel
+End processing Case_00174.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00217_0000.nii.gz!
+Start processing Case_00217. unlabel
+Start processing Case_00220. unlabel
+above finished unlabel
+End processing Case_00220.
+Start processing Case_00468. unlabel
+above finished unlabel
+End processing Case_00468.
+Start processing Case_00561. unlabel
+above finished unlabel
+End processing Case_00561.
+Start processing Case_01134. unlabel
+above finished unlabel
+End processing Case_01134.
+Start processing Case_01251. unlabel
+above finished unlabel
+End processing Case_01251.
+Start processing Case_01447. unlabel
+above finished unlabel
+End processing Case_01447.
+Start processing Case_01601. unlabel
+above finished unlabel
+End processing Case_01601.
+Start processing Case_01720. unlabel
+above finished unlabel
+End processing Case_01720.
+Start processing Case_01863. unlabel
+above finished unlabel
+End processing Case_01863.
+Start processing Case_00023. unlabel
+above finished unlabel
+End processing Case_00023.
+Start processing Case_00302. unlabel
+above finished unlabel
+End processing Case_00302.
+Start processing Case_01255. unlabel
+above finished unlabel
+End processing Case_01255.
+Start processing Case_01449. unlabel
+above finished unlabel
+End processing Case_01449.
+Start processing Case_01652. unlabel
+above finished unlabel
+End processing Case_01652.
+Start processing Case_01802. unlabel
+above finished unlabel
+End processing Case_01802.
+Start processing Case_01977. unlabel
+above finished unlabel
+End processing Case_01977.
+Start processing FLARE22_Tr_0042. train
+above finished train
+End processing FLARE22_Tr_0042.
+Start processing Case_00530. unlabel
+above finished unlabel
+End processing Case_00530.
+Start processing Case_01169. unlabel
+above finished unlabel
+End processing Case_01169.
+Start processing Case_01299. unlabel
+above finished unlabel
+End processing Case_01299.
+Start processing Case_01399. unlabel
+above finished unlabel
+End processing Case_01399.
+Start processing Case_01545. unlabel
+above finished unlabel
+End processing Case_01545.
+Start processing Case_01817. unlabel
+above finished unlabel
+End processing Case_01817.
+Start processing Case_00048. unlabel
+above finished unlabel
+End processing Case_00048.
+Start processing Case_00155. unlabel
+above finished unlabel
+End processing Case_00155.
+Start processing Case_00234. unlabel
+above finished unlabel
+End processing Case_00234.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00401_0000.nii.gz!
+Start processing Case_00401. unlabel
+Start processing Case_00406. unlabel
+above finished unlabel
+End processing Case_00406.
+Start processing Case_00538. unlabel
+above finished unlabel
+End processing Case_00538.
+Start processing Case_00759. unlabel
+above finished unlabel
+End processing Case_00759.
+Start processing Case_00873. unlabel
+above finished unlabel
+End processing Case_00873.
+Start processing Case_00982. unlabel
+above finished unlabel
+End processing Case_00982.
+Start processing Case_01045. unlabel
+above finished unlabel
+End processing Case_01045.
+Start processing Case_01221. unlabel
+above finished unlabel
+End processing Case_01221.
+Start processing Case_01361. unlabel
+above finished unlabel
+End processing Case_01361.
+Start processing Case_01544. unlabel
+above finished unlabel
+End processing Case_01544.
+Start processing Case_01843. unlabel
+above finished unlabel
+End processing Case_01843.
+Start processing Case_00103. unlabel
+above finished unlabel
+End processing Case_00103.
+Start processing Case_00188. unlabel
+above finished unlabel
+End processing Case_00188.
+Start processing Case_00306. unlabel
+above finished unlabel
+End processing Case_00306.
+Start processing Case_00361. unlabel
+above finished unlabel
+End processing Case_00361.
+Start processing Case_00503. unlabel
+above finished unlabel
+End processing Case_00503.
+Start processing Case_00569. unlabel
+above finished unlabel
+End processing Case_00569.
+Start processing Case_01260. unlabel
+above finished unlabel
+End processing Case_01260.
+Start processing Case_01481. unlabel
+above finished unlabel
+End processing Case_01481.
+Start processing Case_01679. unlabel
+above finished unlabel
+End processing Case_01679.
+Start processing Case_01855. unlabel
+above finished unlabel
+End processing Case_01855.
+Start processing Case_00036. unlabel
+above finished unlabel
+End processing Case_00036.
+Start processing Case_00314. unlabel
+above finished unlabel
+End processing Case_00314.
+Start processing Case_00400. unlabel
+above finished unlabel
+End processing Case_00400.
+Start processing Case_00491. unlabel
+above finished unlabel
+End processing Case_00491.
+Start processing Case_00586. unlabel
+above finished unlabel
+End processing Case_00586.
+Start processing Case_01034. unlabel
+above finished unlabel
+End processing Case_01034.
+Start processing Case_01147. unlabel
+above finished unlabel
+End processing Case_01147.
+Start processing Case_01286. unlabel
+above finished unlabel
+End processing Case_01286.
+Start processing Case_01479. unlabel
+above finished unlabel
+End processing Case_01479.
+Start processing Case_01677. unlabel
+above finished unlabel
+End processing Case_01677.
+Start processing Case_01763. unlabel
+above finished unlabel
+End processing Case_01763.
+Start processing Case_01971. unlabel
+above finished unlabel
+End processing Case_01971.
+Start processing FLARE22_Tr_0011. train
+above finished train
+End processing FLARE22_Tr_0011.
+Start processing Case_00785. unlabel
+above finished unlabel
+End processing Case_00785.
+Start processing Case_00877. unlabel
+above finished unlabel
+End processing Case_00877.
+Start processing Case_00971. unlabel
+above finished unlabel
+End processing Case_00971.
+Start processing Case_01247. unlabel
+above finished unlabel
+End processing Case_01247.
+Start processing Case_01465. unlabel
+above finished unlabel
+End processing Case_01465.
+Start processing Case_01598. unlabel
+above finished unlabel
+End processing Case_01598.
+Start processing Case_01718. unlabel
+above finished unlabel
+End processing Case_01718.
+Start processing Case_01909. unlabel
+above finished unlabel
+End processing Case_01909.
+Start processing Case_00080. unlabel
+above finished unlabel
+End processing Case_00080.
+Start processing Case_00150. unlabel
+above finished unlabel
+End processing Case_00150.
+Start processing Case_00227. unlabel
+above finished unlabel
+End processing Case_00227.
+Start processing Case_00595. unlabel
+above finished unlabel
+End processing Case_00595.
+Start processing Case_00629. unlabel
+above finished unlabel
+End processing Case_00629.
+Start processing Case_00670. unlabel
+above finished unlabel
+End processing Case_00670.
+Start processing Case_00768. unlabel
+above finished unlabel
+End processing Case_00768.
+Start processing Case_00796. unlabel
+above finished unlabel
+End processing Case_00796.
+Start processing Case_00849. unlabel
+above finished unlabel
+End processing Case_00849.
+Start processing Case_00952. unlabel
+above finished unlabel
+End processing Case_00952.
+Start processing Case_01062. unlabel
+above finished unlabel
+End processing Case_01062.
+Start processing Case_01213. unlabel
+above finished unlabel
+End processing Case_01213.
+Start processing Case_01363. unlabel
+above finished unlabel
+End processing Case_01363.
+Start processing Case_01531. unlabel
+above finished unlabel
+End processing Case_01531.
+Start processing Case_01702. unlabel
+above finished unlabel
+End processing Case_01702.
+Start processing Case_01866. unlabel
+above finished unlabel
+End processing Case_01866.
+Start processing Case_00012. unlabel
+above finished unlabel
+End processing Case_00012.
+Start processing Case_00488. unlabel
+above finished unlabel
+End processing Case_00488.
+Start processing Case_00565. unlabel
+above finished unlabel
+End processing Case_00565.
+Start processing Case_00911. unlabel
+above finished unlabel
+End processing Case_00911.
+Start processing Case_01031. unlabel
+above finished unlabel
+End processing Case_01031.
+Start processing Case_01185. unlabel
+above finished unlabel
+End processing Case_01185.
+Start processing Case_01329. unlabel
+above finished unlabel
+End processing Case_01329.
+Start processing Case_01468. unlabel
+above finished unlabel
+End processing Case_01468.
+Start processing Case_01622. unlabel
+above finished unlabel
+End processing Case_01622.
+Start processing Case_01819. unlabel
+above finished unlabel
+End processing Case_01819.
+Start processing Case_01978. unlabel
+above finished unlabel
+End processing Case_01978.
+Start processing Case_00050. unlabel
+above finished unlabel
+End processing Case_00050.
+Start processing Case_00176. unlabel
+above finished unlabel
+End processing Case_00176.
+Start processing Case_00270. unlabel
+above finished unlabel
+End processing Case_00270.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00438_0000.nii.gz!
+Start processing Case_00438. unlabel
+Start processing Case_00440. unlabel
+above finished unlabel
+End processing Case_00440.
+Start processing Case_01445. unlabel
+above finished unlabel
+End processing Case_01445.
+Start processing Case_01669. unlabel
+above finished unlabel
+End processing Case_01669.
+Start processing Case_01908. unlabel
+above finished unlabel
+End processing Case_01908.
+Start processing FLARE22_Tr_0045. train
+above finished train
+End processing FLARE22_Tr_0045.
+Start processing Case_00799. unlabel
+above finished unlabel
+End processing Case_00799.
+Start processing Case_00895. unlabel
+above finished unlabel
+End processing Case_00895.
+Start processing Case_01006. unlabel
+above finished unlabel
+End processing Case_01006.
+Start processing Case_01087. unlabel
+above finished unlabel
+End processing Case_01087.
+Start processing Case_01182. unlabel
+above finished unlabel
+End processing Case_01182.
+Start processing Case_01313. unlabel
+above finished unlabel
+End processing Case_01313.
+Start processing Case_01466. unlabel
+above finished unlabel
+End processing Case_01466.
+Start processing Case_01618. unlabel
+above finished unlabel
+End processing Case_01618.
+Start processing Case_01779. unlabel
+above finished unlabel
+End processing Case_01779.
+Start processing FLARE22_Tr_0001. train
+above finished train
+End processing FLARE22_Tr_0001.
+Start processing Case_00959. unlabel
+above finished unlabel
+End processing Case_00959.
+Start processing Case_01503. unlabel
+above finished unlabel
+End processing Case_01503.
+Start processing Case_01641. unlabel
+above finished unlabel
+End processing Case_01641.
+Start processing Case_01920. unlabel
+above finished unlabel
+End processing Case_01920.
+Start processing FLARE22_Tr_0031. train
+above finished train
+End processing FLARE22_Tr_0031.
+Start processing Case_00493. unlabel
+above finished unlabel
+End processing Case_00493.
+Start processing Case_00571. unlabel
+above finished unlabel
+End processing Case_00571.
+Start processing Case_00762. unlabel
+above finished unlabel
+End processing Case_00762.
+Start processing Case_01085. unlabel
+above finished unlabel
+End processing Case_01085.
+Start processing Case_01159. unlabel
+above finished unlabel
+End processing Case_01159.
+Start processing Case_01334. unlabel
+above finished unlabel
+End processing Case_01334.
+Start processing Case_01509. unlabel
+above finished unlabel
+End processing Case_01509.
+Start processing Case_01697. unlabel
+above finished unlabel
+End processing Case_01697.
+Start processing Case_01734. unlabel
+above finished unlabel
+End processing Case_01734.
+Start processing Case_01910. unlabel
+above finished unlabel
+End processing Case_01910.
+Start processing Case_00003. unlabel
+above finished unlabel
+End processing Case_00003.
+Start processing Case_00410. unlabel
+above finished unlabel
+End processing Case_00410.
+Start processing Case_00512. unlabel
+above finished unlabel
+End processing Case_00512.
+Start processing Case_00594. unlabel
+above finished unlabel
+End processing Case_00594.
+Start processing Case_00646. unlabel
+above finished unlabel
+End processing Case_00646.
+Start processing Case_00716. unlabel
+above finished unlabel
+End processing Case_00716.
+Start processing Case_00763. unlabel
+above finished unlabel
+End processing Case_00763.
+Start processing Case_00839. unlabel
+above finished unlabel
+End processing Case_00839.
+Start processing Case_00932. unlabel
+above finished unlabel
+End processing Case_00932.
+Start processing Case_01017. unlabel
+above finished unlabel
+End processing Case_01017.
+Start processing Case_01139. unlabel
+above finished unlabel
+End processing Case_01139.
+Start processing Case_01235. unlabel
+above finished unlabel
+End processing Case_01235.
+Start processing Case_01356. unlabel
+above finished unlabel
+End processing Case_01356.
+Start processing Case_01634. unlabel
+above finished unlabel
+End processing Case_01634.
+Start processing Case_01740. unlabel
+above finished unlabel
+End processing Case_01740.
+Start processing Case_01891. unlabel
+above finished unlabel
+End processing Case_01891.
+Start processing FLARE22_Tr_0040. train
+above finished train
+End processing FLARE22_Tr_0040.
+Start processing Case_00781. unlabel
+above finished unlabel
+End processing Case_00781.
+Start processing Case_01497. unlabel
+above finished unlabel
+End processing Case_01497.
+Start processing Case_01625. unlabel
+above finished unlabel
+End processing Case_01625.
+Start processing Case_01769. unlabel
+above finished unlabel
+End processing Case_01769.
+Start processing Case_01952. unlabel
+above finished unlabel
+End processing Case_01952.
+Start processing Case_00059. unlabel
+above finished unlabel
+End processing Case_00059.
+Start processing Case_00363. unlabel
+above finished unlabel
+End processing Case_00363.
+Start processing Case_00446. unlabel
+above finished unlabel
+End processing Case_00446.
+Start processing Case_00606. unlabel
+above finished unlabel
+End processing Case_00606.
+Start processing Case_00744. unlabel
+above finished unlabel
+End processing Case_00744.
+Start processing Case_01001. unlabel
+above finished unlabel
+End processing Case_01001.
+Start processing Case_01106. unlabel
+above finished unlabel
+End processing Case_01106.
+Start processing Case_01257. unlabel
+above finished unlabel
+End processing Case_01257.
+Start processing Case_01360. unlabel
+above finished unlabel
+End processing Case_01360.
+Start processing Case_01527. unlabel
+above finished unlabel
+End processing Case_01527.
+Start processing Case_01712. unlabel
+above finished unlabel
+End processing Case_01712.
+Start processing Case_01833. unlabel
+above finished unlabel
+End processing Case_01833.
+Start processing Case_01972. unlabel
+above finished unlabel
+End processing Case_01972.
+Start processing FLARE22_Tr_0004. train
+above finished train
+End processing FLARE22_Tr_0004.
+Start processing Case_00775. unlabel
+above finished unlabel
+End processing Case_00775.
+Start processing Case_00857. unlabel
+above finished unlabel
+End processing Case_00857.
+Start processing Case_00965. unlabel
+above finished unlabel
+End processing Case_00965.
+Start processing Case_01317. unlabel
+above finished unlabel
+End processing Case_01317.
+Start processing Case_01488. unlabel
+above finished unlabel
+End processing Case_01488.
+Start processing Case_01651. unlabel
+above finished unlabel
+End processing Case_01651.
+Start processing Case_01783. unlabel
+above finished unlabel
+End processing Case_01783.
+Start processing Case_01960. unlabel
+above finished unlabel
+End processing Case_01960.
+Start processing FLARE22_Tr_0009. train
+above finished train
+End processing FLARE22_Tr_0009.
+Start processing Case_00778. unlabel
+above finished unlabel
+End processing Case_00778.
+Start processing Case_01021. unlabel
+above finished unlabel
+End processing Case_01021.
+Start processing Case_01096. unlabel
+above finished unlabel
+End processing Case_01096.
+Start processing Case_01210. unlabel
+above finished unlabel
+End processing Case_01210.
+Start processing Case_01505. unlabel
+above finished unlabel
+End processing Case_01505.
+Start processing Case_01680. unlabel
+above finished unlabel
+End processing Case_01680.
+Start processing Case_01803. unlabel
+above finished unlabel
+End processing Case_01803.
+Start processing Case_01969. unlabel
+above finished unlabel
+End processing Case_01969.
+Start processing Case_00084. unlabel
+above finished unlabel
+End processing Case_00084.
+Start processing Case_00158. unlabel
+above finished unlabel
+End processing Case_00158.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00219_0000.nii.gz!
+Start processing Case_00219. unlabel
+Start processing Case_00224. unlabel
+above finished unlabel
+End processing Case_00224.
+Start processing Case_00308. unlabel
+above finished unlabel
+End processing Case_00308.
+Start processing Case_00351. unlabel
+above finished unlabel
+End processing Case_00351.
+Start processing Case_00421. unlabel
+above finished unlabel
+End processing Case_00421.
+Start processing Case_00634. unlabel
+above finished unlabel
+End processing Case_00634.
+Start processing Case_00697. unlabel
+above finished unlabel
+End processing Case_00697.
+Start processing Case_01058. unlabel
+above finished unlabel
+End processing Case_01058.
+Start processing Case_01200. unlabel
+above finished unlabel
+End processing Case_01200.
+Start processing Case_01342. unlabel
+above finished unlabel
+End processing Case_01342.
+Start processing Case_01511. unlabel
+above finished unlabel
+End processing Case_01511.
+Start processing Case_01656. unlabel
+above finished unlabel
+End processing Case_01656.
+Start processing Case_01787. unlabel
+above finished unlabel
+End processing Case_01787.
+Start processing Case_01967. unlabel
+above finished unlabel
+End processing Case_01967.
+Start processing Case_00006. unlabel
+above finished unlabel
+End processing Case_00006.
+Start processing Case_00310. unlabel
+above finished unlabel
+End processing Case_00310.
+Start processing Case_00343. unlabel
+above finished unlabel
+End processing Case_00343.
+Start processing Case_00386. unlabel
+above finished unlabel
+End processing Case_00386.
+Start processing Case_00444. unlabel
+above finished unlabel
+End processing Case_00444.
+Start processing Case_00515. unlabel
+above finished unlabel
+End processing Case_00515.
+Start processing Case_00573. unlabel
+above finished unlabel
+End processing Case_00573.
+Start processing Case_01102. unlabel
+above finished unlabel
+End processing Case_01102.
+Start processing Case_01282. unlabel
+above finished unlabel
+End processing Case_01282.
+Start processing Case_01461. unlabel
+above finished unlabel
+End processing Case_01461.
+Start processing Case_01605. unlabel
+above finished unlabel
+End processing Case_01605.
+Start processing Case_01797. unlabel
+above finished unlabel
+End processing Case_01797.
+Start processing Case_01954. unlabel
+above finished unlabel
+End processing Case_01954.
+Start processing FLARE22_Tr_0025. train
+above finished train
+End processing FLARE22_Tr_0025.
+Start processing Case_00487. unlabel
+above finished unlabel
+End processing Case_00487.
+Start processing Case_00544. unlabel
+above finished unlabel
+End processing Case_00544.
+Start processing Case_00904. unlabel
+above finished unlabel
+End processing Case_00904.
+Start processing Case_01019. unlabel
+above finished unlabel
+End processing Case_01019.
+Start processing Case_01098. unlabel
+above finished unlabel
+End processing Case_01098.
+Start processing Case_01181. unlabel
+above finished unlabel
+End processing Case_01181.
+Start processing Case_01374. unlabel
+above finished unlabel
+End processing Case_01374.
+Start processing Case_01535. unlabel
+above finished unlabel
+End processing Case_01535.
+Start processing Case_01710. unlabel
+above finished unlabel
+End processing Case_01710.
+Start processing Case_01791. unlabel
+above finished unlabel
+End processing Case_01791.
+Start processing Case_01970. unlabel
+above finished unlabel
+End processing Case_01970.
+Start processing Case_00115. unlabel
+above finished unlabel
+End processing Case_00115.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00240_0000.nii.gz!
+Start processing Case_00240. unlabel
+Start processing Case_00246. unlabel
+above finished unlabel
+End processing Case_00246.
+Start processing Case_00349. unlabel
+above finished unlabel
+End processing Case_00349.
+Start processing Case_00459. unlabel
+above finished unlabel
+End processing Case_00459.
+Start processing Case_00624. unlabel
+above finished unlabel
+End processing Case_00624.
+Start processing Case_00696. unlabel
+above finished unlabel
+End processing Case_00696.
+Start processing Case_01180. unlabel
+above finished unlabel
+End processing Case_01180.
+Start processing Case_01378. unlabel
+above finished unlabel
+End processing Case_01378.
+Start processing Case_01539. unlabel
+above finished unlabel
+End processing Case_01539.
+Start processing Case_01770. unlabel
+above finished unlabel
+End processing Case_01770.
+Start processing Case_01940. unlabel
+above finished unlabel
+End processing Case_01940.
+Start processing Case_00061. unlabel
+above finished unlabel
+End processing Case_00061.
+Start processing Case_00156. unlabel
+above finished unlabel
+End processing Case_00156.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00232_0000.nii.gz!
+Start processing Case_00232. unlabel
+Start processing Case_00235. unlabel
+above finished unlabel
+End processing Case_00235.
+Start processing Case_00517. unlabel
+above finished unlabel
+End processing Case_00517.
+Start processing Case_00592. unlabel
+above finished unlabel
+End processing Case_00592.
+Start processing Case_00653. unlabel
+above finished unlabel
+End processing Case_00653.
+Start processing Case_00707. unlabel
+above finished unlabel
+End processing Case_00707.
+Start processing Case_01302. unlabel
+above finished unlabel
+End processing Case_01302.
+Start processing Case_01400. unlabel
+above finished unlabel
+End processing Case_01400.
+Start processing Case_01538. unlabel
+above finished unlabel
+End processing Case_01538.
+Start processing Case_01713. unlabel
+above finished unlabel
+End processing Case_01713.
+Start processing Case_01888. unlabel
+above finished unlabel
+End processing Case_01888.
+Start processing Case_00110. unlabel
+above finished unlabel
+End processing Case_00110.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00244_0000.nii.gz!
+Start processing Case_00244. unlabel
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00249_0000.nii.gz!
+Start processing Case_00249. unlabel
+Start processing Case_00252. unlabel
+above finished unlabel
+End processing Case_00252.
+Start processing Case_00364. unlabel
+above finished unlabel
+End processing Case_00364.
+Start processing Case_00497. unlabel
+above finished unlabel
+End processing Case_00497.
+Start processing Case_00564. unlabel
+above finished unlabel
+End processing Case_00564.
+Start processing Case_00811. unlabel
+above finished unlabel
+End processing Case_00811.
+Start processing Case_00883. unlabel
+above finished unlabel
+End processing Case_00883.
+Start processing Case_01027. unlabel
+above finished unlabel
+End processing Case_01027.
+Start processing Case_01100. unlabel
+above finished unlabel
+End processing Case_01100.
+Start processing Case_01176. unlabel
+above finished unlabel
+End processing Case_01176.
+Start processing Case_01320. unlabel
+above finished unlabel
+End processing Case_01320.
+Start processing Case_01452. unlabel
+above finished unlabel
+End processing Case_01452.
+Start processing Case_01668. unlabel
+above finished unlabel
+End processing Case_01668.
+Start processing Case_01776. unlabel
+above finished unlabel
+End processing Case_01776.
+Start processing Case_01949. unlabel
+above finished unlabel
+End processing Case_01949.
+Start processing Case_00004. unlabel
+above finished unlabel
+End processing Case_00004.
+Start processing Case_00307. unlabel
+above finished unlabel
+End processing Case_00307.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00403_0000.nii.gz!
+Start processing Case_00403. unlabel
+Start processing Case_00407. unlabel
+above finished unlabel
+End processing Case_00407.
+Start processing Case_00509. unlabel
+above finished unlabel
+End processing Case_00509.
+Start processing Case_01490. unlabel
+above finished unlabel
+End processing Case_01490.
+Start processing Case_01694. unlabel
+above finished unlabel
+End processing Case_01694.
+Start processing Case_01796. unlabel
+above finished unlabel
+End processing Case_01796.
+Start processing Case_01951. unlabel
+above finished unlabel
+End processing Case_01951.
+Start processing Case_00027. unlabel
+above finished unlabel
+End processing Case_00027.
+Start processing Case_00578. unlabel
+above finished unlabel
+End processing Case_00578.
+Start processing Case_00723. unlabel
+above finished unlabel
+End processing Case_00723.
+Start processing Case_00786. unlabel
+above finished unlabel
+End processing Case_00786.
+Start processing Case_01341. unlabel
+above finished unlabel
+End processing Case_01341.
+Start processing Case_01516. unlabel
+above finished unlabel
+End processing Case_01516.
+Start processing Case_01695. unlabel
+above finished unlabel
+End processing Case_01695.
+Start processing Case_01867. unlabel
+above finished unlabel
+End processing Case_01867.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00010_0000.nii.gz!
+Start processing Case_00010. unlabel
+Start processing Case_00134. unlabel
+above finished unlabel
+End processing Case_00134.
+Start processing Case_00197. unlabel
+above finished unlabel
+End processing Case_00197.
+Start processing Case_00318. unlabel
+above finished unlabel
+End processing Case_00318.
+Start processing Case_00465. unlabel
+above finished unlabel
+End processing Case_00465.
+Start processing Case_00546. unlabel
+above finished unlabel
+End processing Case_00546.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00702_0000.nii.gz!
+Start processing Case_00702. unlabel
+Start processing Case_00704. unlabel
+above finished unlabel
+End processing Case_00704.
+Start processing Case_00866. unlabel
+above finished unlabel
+End processing Case_00866.
+Start processing Case_00992. unlabel
+above finished unlabel
+End processing Case_00992.
+Start processing Case_01070. unlabel
+above finished unlabel
+End processing Case_01070.
+Start processing Case_01183. unlabel
+above finished unlabel
+End processing Case_01183.
+Start processing Case_01358. unlabel
+above finished unlabel
+End processing Case_01358.
+Start processing Case_01660. unlabel
+above finished unlabel
+End processing Case_01660.
+Start processing Case_01807. unlabel
+above finished unlabel
+End processing Case_01807.
+Start processing Case_01959. unlabel
+above finished unlabel
+End processing Case_01959.
+Start processing FLARE22_Tr_0016. train
+above finished train
+End processing FLARE22_Tr_0016.
+Start processing Case_00833. unlabel
+above finished unlabel
+End processing Case_00833.
+Start processing Case_00963. unlabel
+above finished unlabel
+End processing Case_00963.
+Start processing Case_01336. unlabel
+above finished unlabel
+End processing Case_01336.
+Start processing Case_01532. unlabel
+above finished unlabel
+End processing Case_01532.
+Start processing Case_01701. unlabel
+above finished unlabel
+End processing Case_01701.
+Start processing Case_01899. unlabel
+above finished unlabel
+End processing Case_01899.
+Start processing Case_00066. unlabel
+above finished unlabel
+End processing Case_00066.
+Start processing Case_00434. unlabel
+above finished unlabel
+End processing Case_00434.
+Start processing Case_01038. unlabel
+above finished unlabel
+End processing Case_01038.
+Start processing Case_01218. unlabel
+above finished unlabel
+End processing Case_01218.
+Start processing Case_01403. unlabel
+above finished unlabel
+End processing Case_01403.
+Start processing Case_01571. unlabel
+above finished unlabel
+End processing Case_01571.
+Start processing Case_01852. unlabel
+above finished unlabel
+End processing Case_01852.
+Start processing FLARE22_Tr_0021. train
+above finished train
+End processing FLARE22_Tr_0021.
+Start processing Case_00852. unlabel
+above finished unlabel
+End processing Case_00852.
+Start processing Case_00950. unlabel
+above finished unlabel
+End processing Case_00950.
+Start processing Case_01506. unlabel
+above finished unlabel
+End processing Case_01506.
+Start processing Case_01615. unlabel
+above finished unlabel
+End processing Case_01615.
+Start processing Case_01772. unlabel
+above finished unlabel
+End processing Case_01772.
+Start processing Case_01945. unlabel
+above finished unlabel
+End processing Case_01945.
+Start processing Case_00070. unlabel
+above finished unlabel
+End processing Case_00070.
+Start processing Case_00588. unlabel
+above finished unlabel
+End processing Case_00588.
+Start processing Case_01242. unlabel
+above finished unlabel
+End processing Case_01242.
+Start processing Case_01460. unlabel
+above finished unlabel
+End processing Case_01460.
+Start processing Case_01673. unlabel
+above finished unlabel
+End processing Case_01673.
+Start processing Case_01894. unlabel
+above finished unlabel
+End processing Case_01894.
+Start processing FLARE22_Tr_0020. train
+above finished train
+End processing FLARE22_Tr_0020.
+Start processing Case_00792. unlabel
+above finished unlabel
+End processing Case_00792.
+Start processing Case_01067. unlabel
+above finished unlabel
+End processing Case_01067.
+Start processing Case_01158. unlabel
+above finished unlabel
+End processing Case_01158.
+Start processing Case_01298. unlabel
+above finished unlabel
+End processing Case_01298.
+Start processing Case_01482. unlabel
+above finished unlabel
+End processing Case_01482.
+Start processing Case_01688. unlabel
+above finished unlabel
+End processing Case_01688.
+Start processing Case_01795. unlabel
+above finished unlabel
+End processing Case_01795.
+Start processing Case_01962. unlabel
+above finished unlabel
+End processing Case_01962.
+Start processing Case_00076. unlabel
+above finished unlabel
+End processing Case_00076.
+Start processing Case_00559. unlabel
+above finished unlabel
+End processing Case_00559.
+Start processing Case_01275. unlabel
+above finished unlabel
+End processing Case_01275.
+Start processing Case_01373. unlabel
+above finished unlabel
+End processing Case_01373.
+Start processing Case_01611. unlabel
+above finished unlabel
+End processing Case_01611.
+Start processing Case_01738. unlabel
+above finished unlabel
+End processing Case_01738.
+Start processing Case_01889. unlabel
+above finished unlabel
+End processing Case_01889.
+Start processing Case_00020. unlabel
+above finished unlabel
+End processing Case_00020.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00238_0000.nii.gz!
+Start processing Case_00238. unlabel
+Start processing Case_00260. unlabel
+above finished unlabel
+End processing Case_00260.
+Start processing Case_00829. unlabel
+above finished unlabel
+End processing Case_00829.
+Start processing Case_00972. unlabel
+above finished unlabel
+End processing Case_00972.
+Start processing Case_01055. unlabel
+above finished unlabel
+End processing Case_01055.
+Start processing Case_01225. unlabel
+above finished unlabel
+End processing Case_01225.
+Start processing Case_01398. unlabel
+above finished unlabel
+End processing Case_01398.
+Start processing Case_01558. unlabel
+above finished unlabel
+End processing Case_01558.
+Start processing Case_01911. unlabel
+above finished unlabel
+End processing Case_01911.
+Start processing FLARE22_Tr_0047. train
+above finished train
+End processing FLARE22_Tr_0047.
+Start processing Case_00838. unlabel
+above finished unlabel
+End processing Case_00838.
+Start processing Case_00921. unlabel
+above finished unlabel
+End processing Case_00921.
+Start processing Case_01040. unlabel
+above finished unlabel
+End processing Case_01040.
+Start processing Case_01160. unlabel
+above finished unlabel
+End processing Case_01160.
+Start processing Case_01322. unlabel
+above finished unlabel
+End processing Case_01322.
+Start processing Case_01495. unlabel
+above finished unlabel
+End processing Case_01495.
+Start processing Case_01676. unlabel
+above finished unlabel
+End processing Case_01676.
+Start processing Case_01903. unlabel
+above finished unlabel
+End processing Case_01903.
+Start processing Case_00089. unlabel
+above finished unlabel
+End processing Case_00089.
+Start processing Case_00330. unlabel
+above finished unlabel
+End processing Case_00330.
+Start processing Case_00366. unlabel
+above finished unlabel
+End processing Case_00366.
+Start processing Case_00454. unlabel
+above finished unlabel
+End processing Case_00454.
+Start processing Case_00748. unlabel
+above finished unlabel
+End processing Case_00748.
+Start processing Case_00803. unlabel
+above finished unlabel
+End processing Case_00803.
+Start processing Case_00860. unlabel
+above finished unlabel
+End processing Case_00860.
+Start processing Case_00929. unlabel
+above finished unlabel
+End processing Case_00929.
+Start processing Case_01059. unlabel
+above finished unlabel
+End processing Case_01059.
+Start processing Case_01209. unlabel
+above finished unlabel
+End processing Case_01209.
+Start processing Case_01347. unlabel
+above finished unlabel
+End processing Case_01347.
+Start processing Case_01529. unlabel
+above finished unlabel
+End processing Case_01529.
+Start processing Case_01698. unlabel
+above finished unlabel
+End processing Case_01698.
+Start processing Case_01789. unlabel
+above finished unlabel
+End processing Case_01789.
+Start processing Case_01964. unlabel
+above finished unlabel
+End processing Case_01964.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00049_0000.nii.gz!
+Start processing Case_00049. unlabel
+Start processing Case_00132. unlabel
+above finished unlabel
+End processing Case_00132.
+Start processing Case_00151. unlabel
+above finished unlabel
+End processing Case_00151.
+Start processing Case_00208. unlabel
+above finished unlabel
+End processing Case_00208.
+Start processing Case_00374. unlabel
+above finished unlabel
+End processing Case_00374.
+Start processing Case_00492. unlabel
+above finished unlabel
+End processing Case_00492.
+Start processing Case_00568. unlabel
+above finished unlabel
+End processing Case_00568.
+Start processing Case_00791. unlabel
+above finished unlabel
+End processing Case_00791.
+Start processing Case_01279. unlabel
+above finished unlabel
+End processing Case_01279.
+Start processing Case_01401. unlabel
+above finished unlabel
+End processing Case_01401.
+Start processing Case_01635. unlabel
+above finished unlabel
+End processing Case_01635.
+Start processing Case_01751. unlabel
+above finished unlabel
+End processing Case_01751.
+Start processing Case_01896. unlabel
+above finished unlabel
+End processing Case_01896.
+Start processing FLARE22_Tr_0050. train
+above finished train
+End processing FLARE22_Tr_0050.
+Start processing Case_00514. unlabel
+above finished unlabel
+End processing Case_00514.
+Start processing Case_00585. unlabel
+above finished unlabel
+End processing Case_00585.
+Start processing Case_01081. unlabel
+above finished unlabel
+End processing Case_01081.
+Start processing Case_01145. unlabel
+above finished unlabel
+End processing Case_01145.
+Start processing Case_01283. unlabel
+above finished unlabel
+End processing Case_01283.
+Start processing Case_01370. unlabel
+above finished unlabel
+End processing Case_01370.
+Start processing Case_01537. unlabel
+above finished unlabel
+End processing Case_01537.
+Start processing Case_01706. unlabel
+above finished unlabel
+End processing Case_01706.
+Start processing Case_01830. unlabel
+above finished unlabel
+End processing Case_01830.
+Start processing Case_01963. unlabel
+above finished unlabel
+End processing Case_01963.
+Start processing Case_00101. unlabel
+above finished unlabel
+End processing Case_00101.
+Start processing Case_00192. unlabel
+above finished unlabel
+End processing Case_00192.
+Start processing Case_00309. unlabel
+above finished unlabel
+End processing Case_00309.
+Start processing Case_00342. unlabel
+above finished unlabel
+End processing Case_00342.
+Start processing Case_00443. unlabel
+above finished unlabel
+End processing Case_00443.
+Start processing Case_00556. unlabel
+above finished unlabel
+End processing Case_00556.
+Start processing Case_00633. unlabel
+above finished unlabel
+End processing Case_00633.
+Start processing Case_00720. unlabel
+above finished unlabel
+End processing Case_00720.
+Start processing Case_00815. unlabel
+above finished unlabel
+End processing Case_00815.
+Start processing Case_00885. unlabel
+above finished unlabel
+End processing Case_00885.
+Start processing Case_00957. unlabel
+above finished unlabel
+End processing Case_00957.
+Start processing Case_01128. unlabel
+above finished unlabel
+End processing Case_01128.
+Start processing Case_01288. unlabel
+above finished unlabel
+End processing Case_01288.
+Start processing Case_01486. unlabel
+above finished unlabel
+End processing Case_01486.
+Start processing Case_01666. unlabel
+above finished unlabel
+End processing Case_01666.
+Start processing Case_01898. unlabel
+above finished unlabel
+End processing Case_01898.
+Start processing Case_00112. unlabel
+above finished unlabel
+End processing Case_00112.
+Start processing Case_00198. unlabel
+above finished unlabel
+End processing Case_00198.
+Start processing Case_00292. unlabel
+above finished unlabel
+End processing Case_00292.
+Start processing Case_00471. unlabel
+above finished unlabel
+End processing Case_00471.
+Start processing Case_00602. unlabel
+above finished unlabel
+End processing Case_00602.
+Start processing Case_00666. unlabel
+above finished unlabel
+End processing Case_00666.
+Start processing Case_01010. unlabel
+above finished unlabel
+End processing Case_01010.
+Start processing Case_01150. unlabel
+above finished unlabel
+End processing Case_01150.
+Start processing Case_01287. unlabel
+above finished unlabel
+End processing Case_01287.
+Start processing Case_01472. unlabel
+above finished unlabel
+End processing Case_01472.
+Start processing Case_01603. unlabel
+above finished unlabel
+End processing Case_01603.
+Start processing Case_01767. unlabel
+above finished unlabel
+End processing Case_01767.
+Start processing Case_01944. unlabel
+above finished unlabel
+End processing Case_01944.
+Start processing FLARE22_Tr_0012. train
+above finished train
+End processing FLARE22_Tr_0012.
+Start processing Case_00947. unlabel
+above finished unlabel
+End processing Case_00947.
+Start processing Case_01333. unlabel
+above finished unlabel
+End processing Case_01333.
+Start processing Case_01519. unlabel
+above finished unlabel
+End processing Case_01519.
+Start processing Case_01827. unlabel
+above finished unlabel
+End processing Case_01827.
+Start processing Case_01976. unlabel
+above finished unlabel
+End processing Case_01976.
+Start processing Case_00053. unlabel
+above finished unlabel
+End processing Case_00053.
+Start processing Case_00166. unlabel
+above finished unlabel
+End processing Case_00166.
+Start processing Case_00283. unlabel
+above finished unlabel
+End processing Case_00283.
+Start processing Case_00344. unlabel
+above finished unlabel
+End processing Case_00344.
+Start processing Case_00384. unlabel
+above finished unlabel
+End processing Case_00384.
+Start processing Case_00442. unlabel
+above finished unlabel
+End processing Case_00442.
+Start processing Case_00680. unlabel
+above finished unlabel
+End processing Case_00680.
+Start processing Case_00766. unlabel
+above finished unlabel
+End processing Case_00766.
+Start processing Case_00830. unlabel
+above finished unlabel
+End processing Case_00830.
+Start processing Case_00882. unlabel
+above finished unlabel
+End processing Case_00882.
+Start processing Case_01007. unlabel
+above finished unlabel
+End processing Case_01007.
+Start processing Case_01071. unlabel
+above finished unlabel
+End processing Case_01071.
+Start processing Case_01123. unlabel
+above finished unlabel
+End processing Case_01123.
+Start processing Case_01237. unlabel
+above finished unlabel
+End processing Case_01237.
+Start processing Case_01450. unlabel
+above finished unlabel
+End processing Case_01450.
+Start processing Case_01583. unlabel
+above finished unlabel
+End processing Case_01583.
+Start processing Case_01808. unlabel
+above finished unlabel
+End processing Case_01808.
+Start processing Case_01968. unlabel
+above finished unlabel
+End processing Case_01968.
+Start processing Case_00022. unlabel
+above finished unlabel
+End processing Case_00022.
+Start processing Case_00642. unlabel
+above finished unlabel
+End processing Case_00642.
+Start processing Case_00743. unlabel
+above finished unlabel
+End processing Case_00743.
+Start processing Case_00855. unlabel
+above finished unlabel
+End processing Case_00855.
+Start processing Case_00974. unlabel
+above finished unlabel
+End processing Case_00974.
+Start processing Case_01120. unlabel
+above finished unlabel
+End processing Case_01120.
+Start processing Case_01215. unlabel
+above finished unlabel
+End processing Case_01215.
+Start processing Case_01427. unlabel
+above finished unlabel
+End processing Case_01427.
+Start processing Case_01576. unlabel
+above finished unlabel
+End processing Case_01576.
+Start processing Case_01895. unlabel
+above finished unlabel
+End processing Case_01895.
+Start processing FLARE22_Tr_0036. train
+above finished train
+End processing FLARE22_Tr_0036.
+Start processing Case_00537. unlabel
+above finished unlabel
+End processing Case_00537.
+Start processing Case_00605. unlabel
+above finished unlabel
+End processing Case_00605.
+Start processing Case_00661. unlabel
+above finished unlabel
+End processing Case_00661.
+Start processing Case_00750. unlabel
+above finished unlabel
+End processing Case_00750.
+Start processing Case_00805. unlabel
+above finished unlabel
+End processing Case_00805.
+Start processing Case_00853. unlabel
+above finished unlabel
+End processing Case_00853.
+Start processing Case_00922. unlabel
+above finished unlabel
+End processing Case_00922.
+Start processing Case_01003. unlabel
+above finished unlabel
+End processing Case_01003.
+Start processing Case_01076. unlabel
+above finished unlabel
+End processing Case_01076.
+Start processing Case_01114. unlabel
+above finished unlabel
+End processing Case_01114.
+Start processing Case_01184. unlabel
+above finished unlabel
+End processing Case_01184.
+Start processing Case_01326. unlabel
+above finished unlabel
+End processing Case_01326.
+Start processing Case_01510. unlabel
+above finished unlabel
+End processing Case_01510.
+Start processing Case_01687. unlabel
+above finished unlabel
+End processing Case_01687.
+Start processing Case_01760. unlabel
+above finished unlabel
+End processing Case_01760.
+Start processing Case_01939. unlabel
+above finished unlabel
+End processing Case_01939.
+Start processing Case_00072. unlabel
+above finished unlabel
+End processing Case_00072.
+Start processing Case_00516. unlabel
+above finished unlabel
+End processing Case_00516.
+Start processing Case_00596. unlabel
+above finished unlabel
+End processing Case_00596.
+Start processing Case_00641. unlabel
+above finished unlabel
+End processing Case_00641.
+Start processing Case_00731. unlabel
+above finished unlabel
+End processing Case_00731.
+Start processing Case_00884. unlabel
+above finished unlabel
+End processing Case_00884.
+Start processing Case_00955. unlabel
+above finished unlabel
+End processing Case_00955.
+Start processing Case_01090. unlabel
+above finished unlabel
+End processing Case_01090.
+Start processing Case_01168. unlabel
+above finished unlabel
+End processing Case_01168.
+Start processing Case_01289. unlabel
+above finished unlabel
+End processing Case_01289.
+Start processing Case_01393. unlabel
+above finished unlabel
+End processing Case_01393.
+Start processing Case_01557. unlabel
+above finished unlabel
+End processing Case_01557.
+Start processing Case_01721. unlabel
+above finished unlabel
+End processing Case_01721.
+Start processing Case_01869. unlabel
+above finished unlabel
+End processing Case_01869.
+Start processing Case_00031. unlabel
+above finished unlabel
+End processing Case_00031.
+Start processing Case_00274. unlabel
+above finished unlabel
+End processing Case_00274.
+Start processing Case_00333. unlabel
+above finished unlabel
+End processing Case_00333.
+Start processing Case_00369. unlabel
+above finished unlabel
+End processing Case_00369.
+Start processing Case_00518. unlabel
+above finished unlabel
+End processing Case_00518.
+Start processing Case_00600. unlabel
+above finished unlabel
+End processing Case_00600.
+Start processing Case_00658. unlabel
+above finished unlabel
+End processing Case_00658.
+Start processing Case_00730. unlabel
+above finished unlabel
+End processing Case_00730.
+Start processing Case_00943. unlabel
+above finished unlabel
+End processing Case_00943.
+Start processing Case_01278. unlabel
+above finished unlabel
+End processing Case_01278.
+Start processing Case_01402. unlabel
+above finished unlabel
+End processing Case_01402.
+Start processing Case_01551. unlabel
+above finished unlabel
+End processing Case_01551.
+Start processing Case_01873. unlabel
+above finished unlabel
+End processing Case_01873.
+Start processing Case_00044. unlabel
+above finished unlabel
+End processing Case_00044.
+Start processing Case_00523. unlabel
+above finished unlabel
+End processing Case_00523.
+Start processing Case_00607. unlabel
+above finished unlabel
+End processing Case_00607.
+Start processing Case_00673. unlabel
+above finished unlabel
+End processing Case_00673.
+Start processing Case_01179. unlabel
+above finished unlabel
+End processing Case_01179.
+Start processing Case_01335. unlabel
+above finished unlabel
+End processing Case_01335.
+Start processing Case_01520. unlabel
+above finished unlabel
+End processing Case_01520.
+Start processing Case_01935. unlabel
+above finished unlabel
+End processing Case_01935.
+Start processing Case_00028. unlabel
+above finished unlabel
+End processing Case_00028.
+Start processing Case_00311. unlabel
+above finished unlabel
+End processing Case_00311.
+Start processing Case_00394. unlabel
+above finished unlabel
+End processing Case_00394.
+Start processing Case_00525. unlabel
+above finished unlabel
+End processing Case_00525.
+Start processing Case_00761. unlabel
+above finished unlabel
+End processing Case_00761.
+Start processing Case_00876. unlabel
+above finished unlabel
+End processing Case_00876.
+Start processing Case_00988. unlabel
+above finished unlabel
+End processing Case_00988.
+Start processing Case_01060. unlabel
+above finished unlabel
+End processing Case_01060.
+Start processing Case_01219. unlabel
+above finished unlabel
+End processing Case_01219.
+Start processing Case_01407. unlabel
+above finished unlabel
+End processing Case_01407.
+Start processing Case_01595. unlabel
+above finished unlabel
+End processing Case_01595.
+Start processing Case_01868. unlabel
+above finished unlabel
+End processing Case_01868.
+Start processing FLARE22_Tr_0037. train
+above finished train
+End processing FLARE22_Tr_0037.
+Start processing Case_00507. unlabel
+above finished unlabel
+End processing Case_00507.
+Start processing Case_00566. unlabel
+above finished unlabel
+End processing Case_00566.
+Start processing Case_00816. unlabel
+above finished unlabel
+End processing Case_00816.
+Start processing Case_00881. unlabel
+above finished unlabel
+End processing Case_00881.
+Start processing Case_00941. unlabel
+above finished unlabel
+End processing Case_00941.
+Start processing Case_01125. unlabel
+above finished unlabel
+End processing Case_01125.
+Start processing Case_01228. unlabel
+above finished unlabel
+End processing Case_01228.
+Start processing Case_01353. unlabel
+above finished unlabel
+End processing Case_01353.
+Start processing Case_01589. unlabel
+above finished unlabel
+End processing Case_01589.
+Start processing Case_01907. unlabel
+above finished unlabel
+End processing Case_01907.
+Start processing Case_00079. unlabel
+above finished unlabel
+End processing Case_00079.
+Start processing Case_00315. unlabel
+above finished unlabel
+End processing Case_00315.
+Start processing Case_00350. unlabel
+above finished unlabel
+End processing Case_00350.
+Start processing Case_00414. unlabel
+above finished unlabel
+End processing Case_00414.
+Start processing Case_01207. unlabel
+above finished unlabel
+End processing Case_01207.
+Start processing Case_01429. unlabel
+above finished unlabel
+End processing Case_01429.
+Start processing Case_01587. unlabel
+above finished unlabel
+End processing Case_01587.
+Start processing Case_01906. unlabel
+above finished unlabel
+End processing Case_01906.
+Start processing Case_00063. unlabel
+above finished unlabel
+End processing Case_00063.
+Start processing Case_00437. unlabel
+above finished unlabel
+End processing Case_00437.
+Start processing Case_00576. unlabel
+above finished unlabel
+End processing Case_00576.
+Start processing Case_00657. unlabel
+above finished unlabel
+End processing Case_00657.
+Start processing Case_00760. unlabel
+above finished unlabel
+End processing Case_00760.
+Start processing Case_00964. unlabel
+above finished unlabel
+End processing Case_00964.
+Start processing Case_01088. unlabel
+above finished unlabel
+End processing Case_01088.
+Start processing Case_01153. unlabel
+above finished unlabel
+End processing Case_01153.
+Start processing Case_01281. unlabel
+above finished unlabel
+End processing Case_01281.
+Start processing Case_01478. unlabel
+above finished unlabel
+End processing Case_01478.
+Start processing Case_01612. unlabel
+above finished unlabel
+End processing Case_01612.
+Start processing Case_01748. unlabel
+above finished unlabel
+End processing Case_01748.
+Start processing Case_01851. unlabel
+above finished unlabel
+End processing Case_01851.
+Start processing FLARE22_Tr_0043. train
+above finished train
+End processing FLARE22_Tr_0043.
+Start processing Case_00802. unlabel
+above finished unlabel
+End processing Case_00802.
+Start processing Case_00906. unlabel
+above finished unlabel
+End processing Case_00906.
+Start processing Case_01023. unlabel
+above finished unlabel
+End processing Case_01023.
+Start processing Case_01146. unlabel
+above finished unlabel
+End processing Case_01146.
+Start processing Case_01292. unlabel
+above finished unlabel
+End processing Case_01292.
+Start processing Case_01493. unlabel
+above finished unlabel
+End processing Case_01493.
+Start processing Case_01629. unlabel
+above finished unlabel
+End processing Case_01629.
+Start processing Case_01897. unlabel
+above finished unlabel
+End processing Case_01897.
+Start processing Case_00105. unlabel
+above finished unlabel
+End processing Case_00105.
+Start processing Case_00237. unlabel
+above finished unlabel
+End processing Case_00237.
+Start processing Case_00647. unlabel
+above finished unlabel
+End processing Case_00647.
+Start processing Case_00715. unlabel
+above finished unlabel
+End processing Case_00715.
+Start processing Case_00804. unlabel
+above finished unlabel
+End processing Case_00804.
+Start processing Case_00912. unlabel
+above finished unlabel
+End processing Case_00912.
+Start processing Case_00975. unlabel
+above finished unlabel
+End processing Case_00975.
+Start processing Case_01053. unlabel
+above finished unlabel
+End processing Case_01053.
+Start processing Case_01234. unlabel
+above finished unlabel
+End processing Case_01234.
+Start processing Case_01421. unlabel
+above finished unlabel
+End processing Case_01421.
+Start processing Case_01567. unlabel
+above finished unlabel
+End processing Case_01567.
+Start processing Case_01806. unlabel
+above finished unlabel
+End processing Case_01806.
+Start processing Case_01966. unlabel
+above finished unlabel
+End processing Case_01966.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00021_0000.nii.gz!
+Start processing Case_00021. unlabel
+Start processing Case_00135. unlabel
+above finished unlabel
+End processing Case_00135.
+Start processing Case_00172. unlabel
+above finished unlabel
+End processing Case_00172.
+Start processing Case_00257. unlabel
+above finished unlabel
+End processing Case_00257.
+Start processing Case_00393. unlabel
+above finished unlabel
+End processing Case_00393.
+Start processing Case_00483. unlabel
+above finished unlabel
+End processing Case_00483.
+Start processing Case_00582. unlabel
+above finished unlabel
+End processing Case_00582.
+Start processing Case_01156. unlabel
+above finished unlabel
+End processing Case_01156.
+Start processing Case_01340. unlabel
+above finished unlabel
+End processing Case_01340.
+Start processing Case_01568. unlabel
+above finished unlabel
+End processing Case_01568.
+Start processing Case_01733. unlabel
+above finished unlabel
+End processing Case_01733.
+Start processing Case_01845. unlabel
+above finished unlabel
+End processing Case_01845.
+Start processing FLARE22_Tr_0049. train
+above finished train
+End processing FLARE22_Tr_0049.
+Start processing Case_00814. unlabel
+above finished unlabel
+End processing Case_00814.
+Start processing Case_01430. unlabel
+above finished unlabel
+End processing Case_01430.
+Start processing Case_01582. unlabel
+above finished unlabel
+End processing Case_01582.
+Start processing Case_01853. unlabel
+above finished unlabel
+End processing Case_01853.
+Start processing Case_00113. unlabel
+above finished unlabel
+End processing Case_00113.
+Start processing Case_00168. unlabel
+above finished unlabel
+End processing Case_00168.
+Start processing Case_00209. unlabel
+above finished unlabel
+End processing Case_00209.
+Start processing Case_00338. unlabel
+above finished unlabel
+End processing Case_00338.
+Start processing Case_00385. unlabel
+above finished unlabel
+End processing Case_00385.
+Start processing Case_00441. unlabel
+above finished unlabel
+End processing Case_00441.
+Start processing Case_01022. unlabel
+above finished unlabel
+End processing Case_01022.
+Start processing Case_01086. unlabel
+above finished unlabel
+End processing Case_01086.
+Start processing Case_01194. unlabel
+above finished unlabel
+End processing Case_01194.
+Start processing Case_01359. unlabel
+above finished unlabel
+End processing Case_01359.
+Start processing Case_01534. unlabel
+above finished unlabel
+End processing Case_01534.
+Start processing Case_01715. unlabel
+above finished unlabel
+End processing Case_01715.
+Start processing Case_01834. unlabel
+above finished unlabel
+End processing Case_01834.
+Start processing Case_01973. unlabel
+above finished unlabel
+End processing Case_01973.
+Start processing Case_00100. unlabel
+above finished unlabel
+End processing Case_00100.
+Start processing Case_00241. unlabel
+above finished unlabel
+End processing Case_00241.
+Start processing Case_00345. unlabel
+above finished unlabel
+End processing Case_00345.
+Start processing Case_00457. unlabel
+above finished unlabel
+End processing Case_00457.
+Start processing Case_00933. unlabel
+above finished unlabel
+End processing Case_00933.
+Start processing Case_01113. unlabel
+above finished unlabel
+End processing Case_01113.
+Start processing Case_01178. unlabel
+above finished unlabel
+End processing Case_01178.
+Start processing Case_01312. unlabel
+above finished unlabel
+End processing Case_01312.
+Start processing Case_01470. unlabel
+above finished unlabel
+End processing Case_01470.
+Start processing Case_01654. unlabel
+above finished unlabel
+End processing Case_01654.
+Start processing Case_01876. unlabel
+above finished unlabel
+End processing Case_01876.
+Start processing Case_00128. unlabel
+above finished unlabel
+End processing Case_00128.
+Start processing Case_00183. unlabel
+above finished unlabel
+End processing Case_00183.
+Start processing Case_00281. unlabel
+above finished unlabel
+End processing Case_00281.
+Start processing Case_00339. unlabel
+above finished unlabel
+End processing Case_00339.
+Start processing Case_00481. unlabel
+above finished unlabel
+End processing Case_00481.
+Start processing Case_00584. unlabel
+above finished unlabel
+End processing Case_00584.
+Start processing Case_00894. unlabel
+above finished unlabel
+End processing Case_00894.
+Start processing Case_00997. unlabel
+above finished unlabel
+End processing Case_00997.
+Start processing Case_01151. unlabel
+above finished unlabel
+End processing Case_01151.
+Start processing Case_01269. unlabel
+above finished unlabel
+End processing Case_01269.
+Start processing Case_01433. unlabel
+above finished unlabel
+End processing Case_01433.
+Start processing Case_01586. unlabel
+above finished unlabel
+End processing Case_01586.
+Start processing Case_01785. unlabel
+above finished unlabel
+End processing Case_01785.
+Start processing Case_00129. unlabel
+above finished unlabel
+End processing Case_00129.
+Start processing Case_00194. unlabel
+above finished unlabel
+End processing Case_00194.
+Start processing Case_00288. unlabel
+above finished unlabel
+End processing Case_00288.
+Start processing Case_00618. unlabel
+above finished unlabel
+End processing Case_00618.
+Start processing Case_00669. unlabel
+above finished unlabel
+End processing Case_00669.
+Start processing Case_01385. unlabel
+above finished unlabel
+End processing Case_01385.
+Start processing Case_01546. unlabel
+above finished unlabel
+End processing Case_01546.
+Start processing Case_01846. unlabel
+above finished unlabel
+End processing Case_01846.
+Start processing FLARE22_Tr_0019. train
+above finished train
+End processing FLARE22_Tr_0019.
+Start processing Case_00870. unlabel
+above finished unlabel
+End processing Case_00870.
+Start processing Case_00983. unlabel
+above finished unlabel
+End processing Case_00983.
+Start processing Case_01080. unlabel
+above finished unlabel
+End processing Case_01080.
+Start processing Case_01191. unlabel
+above finished unlabel
+End processing Case_01191.
+Start processing Case_01351. unlabel
+above finished unlabel
+End processing Case_01351.
+Start processing Case_01633. unlabel
+above finished unlabel
+End processing Case_01633.
+Start processing Case_01811. unlabel
+above finished unlabel
+End processing Case_01811.
+Start processing Case_01974. unlabel
+above finished unlabel
+End processing Case_01974.
+Start processing FLARE22_Tr_0038. train
+above finished train
+End processing FLARE22_Tr_0038.
+Start processing Case_00872. unlabel
+above finished unlabel
+End processing Case_00872.
+Start processing Case_00991. unlabel
+above finished unlabel
+End processing Case_00991.
+Start processing Case_01137. unlabel
+above finished unlabel
+End processing Case_01137.
+Start processing Case_01272. unlabel
+above finished unlabel
+End processing Case_01272.
+Start processing Case_01463. unlabel
+above finished unlabel
+End processing Case_01463.
+Start processing Case_01683. unlabel
+above finished unlabel
+End processing Case_01683.
+Start processing Case_01752. unlabel
+above finished unlabel
+End processing Case_01752.
+Start processing Case_01871. unlabel
+above finished unlabel
+End processing Case_01871.
+Start processing FLARE22_Tr_0013. train
+above finished train
+End processing FLARE22_Tr_0013.
+Start processing Case_00832. unlabel
+above finished unlabel
+End processing Case_00832.
+Start processing Case_01009. unlabel
+above finished unlabel
+End processing Case_01009.
+Start processing Case_01108. unlabel
+above finished unlabel
+End processing Case_01108.
+Start processing Case_01226. unlabel
+above finished unlabel
+End processing Case_01226.
+Start processing Case_01364. unlabel
+above finished unlabel
+End processing Case_01364.
+Start processing Case_01614. unlabel
+above finished unlabel
+End processing Case_01614.
+Start processing Case_01790. unlabel
+above finished unlabel
+End processing Case_01790.
+Start processing Case_01986. unlabel
+above finished unlabel
+End processing Case_01986.
+Start processing FLARE22_Tr_0018. train
+above finished train
+End processing FLARE22_Tr_0018.
+Start processing Case_00847. unlabel
+above finished unlabel
+End processing Case_00847.
+Start processing Case_00958. unlabel
+above finished unlabel
+End processing Case_00958.
+Start processing Case_01248. unlabel
+above finished unlabel
+End processing Case_01248.
+Start processing Case_01454. unlabel
+above finished unlabel
+End processing Case_01454.
+Start processing Case_01659. unlabel
+above finished unlabel
+End processing Case_01659.
+Start processing Case_01793. unlabel
+above finished unlabel
+End processing Case_01793.
+Start processing Case_01988. unlabel
+above finished unlabel
+End processing Case_01988.
+Start processing Case_00040. unlabel
+above finished unlabel
+End processing Case_00040.
+Start processing Case_00619. unlabel
+above finished unlabel
+End processing Case_00619.
+Start processing Case_00662. unlabel
+above finished unlabel
+End processing Case_00662.
+Start processing Case_00719. unlabel
+above finished unlabel
+End processing Case_00719.
+Start processing Case_00797. unlabel
+above finished unlabel
+End processing Case_00797.
+Start processing Case_00864. unlabel
+above finished unlabel
+End processing Case_00864.
+Start processing Case_00995. unlabel
+above finished unlabel
+End processing Case_00995.
+Start processing Case_01111. unlabel
+above finished unlabel
+End processing Case_01111.
+Start processing Case_01190. unlabel
+above finished unlabel
+End processing Case_01190.
+Start processing Case_01318. unlabel
+above finished unlabel
+End processing Case_01318.
+Start processing Case_01459. unlabel
+above finished unlabel
+End processing Case_01459.
+Start processing Case_01642. unlabel
+above finished unlabel
+End processing Case_01642.
+Start processing Case_01901. unlabel
+above finished unlabel
+End processing Case_01901.
+Start processing Case_00071. unlabel
+above finished unlabel
+End processing Case_00071.
+Start processing Case_00429. unlabel
+above finished unlabel
+End processing Case_00429.
+Start processing Case_00531. unlabel
+above finished unlabel
+End processing Case_00531.
+Start processing Case_00615. unlabel
+above finished unlabel
+End processing Case_00615.
+Start processing Case_00679. unlabel
+above finished unlabel
+End processing Case_00679.
+Start processing Case_00770. unlabel
+above finished unlabel
+End processing Case_00770.
+Start processing Case_00868. unlabel
+above finished unlabel
+End processing Case_00868.
+Start processing Case_00973. unlabel
+above finished unlabel
+End processing Case_00973.
+Start processing Case_01061. unlabel
+above finished unlabel
+End processing Case_01061.
+Start processing Case_01206. unlabel
+above finished unlabel
+End processing Case_01206.
+Start processing Case_01391. unlabel
+above finished unlabel
+End processing Case_01391.
+Start processing Case_01550. unlabel
+above finished unlabel
+End processing Case_01550.
+Start processing Case_01716. unlabel
+above finished unlabel
+End processing Case_01716.
+Start processing Case_01916. unlabel
+above finished unlabel
+End processing Case_01916.
+Start processing Case_00116. unlabel
+above finished unlabel
+End processing Case_00116.
+Start processing Case_00200. unlabel
+above finished unlabel
+End processing Case_00200.
+Start processing Case_00279. unlabel
+above finished unlabel
+End processing Case_00279.
+Start processing Case_01028. unlabel
+above finished unlabel
+End processing Case_01028.
+Start processing Case_01101. unlabel
+above finished unlabel
+End processing Case_01101.
+Start processing Case_01186. unlabel
+above finished unlabel
+End processing Case_01186.
+Start processing Case_01311. unlabel
+above finished unlabel
+End processing Case_01311.
+Start processing Case_01476. unlabel
+above finished unlabel
+End processing Case_01476.
+Start processing Case_01602. unlabel
+above finished unlabel
+End processing Case_01602.
+Start processing Case_01722. unlabel
+above finished unlabel
+End processing Case_01722.
+Start processing Case_01885. unlabel
+above finished unlabel
+End processing Case_01885.
+Start processing Case_01980. unlabel
+above finished unlabel
+End processing Case_01980.
+Start processing Case_00018. unlabel
+above finished unlabel
+End processing Case_00018.
+Start processing Case_00620. unlabel
+above finished unlabel
+End processing Case_00620.
+Start processing Case_00691. unlabel
+above finished unlabel
+End processing Case_00691.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00754_0000.nii.gz!
+Start processing Case_00754. unlabel
+Start processing Case_00755. unlabel
+above finished unlabel
+End processing Case_00755.
+Start processing Case_01166. unlabel
+above finished unlabel
+End processing Case_01166.
+Start processing Case_01379. unlabel
+above finished unlabel
+End processing Case_01379.
+Start processing Case_01530. unlabel
+above finished unlabel
+End processing Case_01530.
+Start processing Case_01691. unlabel
+above finished unlabel
+End processing Case_01691.
+Start processing Case_01804. unlabel
+above finished unlabel
+End processing Case_01804.
+Start processing Case_01965. unlabel
+above finished unlabel
+End processing Case_01965.
+Start processing Case_00083. unlabel
+above finished unlabel
+End processing Case_00083.
+Start processing Case_00154. unlabel
+above finished unlabel
+End processing Case_00154.
+Start processing Case_00229. unlabel
+above finished unlabel
+End processing Case_00229.
+Start processing Case_01315. unlabel
+above finished unlabel
+End processing Case_01315.
+Start processing Case_01485. unlabel
+above finished unlabel
+End processing Case_01485.
+Start processing Case_01684. unlabel
+above finished unlabel
+End processing Case_01684.
+Start processing Case_01831. unlabel
+above finished unlabel
+End processing Case_01831.
+Start processing Case_01990. unlabel
+above finished unlabel
+End processing Case_01990.
+Start processing Case_00043. unlabel
+above finished unlabel
+End processing Case_00043.
+Start processing Case_00513. unlabel
+above finished unlabel
+End processing Case_00513.
+Start processing Case_00579. unlabel
+above finished unlabel
+End processing Case_00579.
+Start processing Case_00725. unlabel
+above finished unlabel
+End processing Case_00725.
+Start processing Case_00808. unlabel
+above finished unlabel
+End processing Case_00808.
+Start processing Case_00893. unlabel
+above finished unlabel
+End processing Case_00893.
+Start processing Case_01013. unlabel
+above finished unlabel
+End processing Case_01013.
+Start processing Case_01118. unlabel
+above finished unlabel
+End processing Case_01118.
+Start processing Case_01223. unlabel
+above finished unlabel
+End processing Case_01223.
+Start processing Case_01348. unlabel
+above finished unlabel
+End processing Case_01348.
+Start processing Case_01632. unlabel
+above finished unlabel
+End processing Case_01632.
+Start processing Case_01810. unlabel
+above finished unlabel
+End processing Case_01810.
+Start processing Case_01983. unlabel
+above finished unlabel
+End processing Case_01983.
+Start processing Case_00001. unlabel
+above finished unlabel
+End processing Case_00001.
+Start processing Case_00239. unlabel
+above finished unlabel
+End processing Case_00239.
+Start processing Case_00319. unlabel
+above finished unlabel
+End processing Case_00319.
+Start processing Case_00365. unlabel
+above finished unlabel
+End processing Case_00365.
+Start processing Case_00466. unlabel
+above finished unlabel
+End processing Case_00466.
+Start processing Case_00547. unlabel
+above finished unlabel
+End processing Case_00547.
+Start processing Case_00627. unlabel
+above finished unlabel
+End processing Case_00627.
+Start processing Case_00708. unlabel
+above finished unlabel
+End processing Case_00708.
+Start processing Case_01406. unlabel
+above finished unlabel
+End processing Case_01406.
+Start processing Case_01572. unlabel
+above finished unlabel
+End processing Case_01572.
+Start processing Case_01814. unlabel
+above finished unlabel
+End processing Case_01814.
+Start processing Case_01993. unlabel
+above finished unlabel
+End processing Case_01993.
+Start processing Case_00055. unlabel
+above finished unlabel
+End processing Case_00055.
+Start processing Case_00248. unlabel
+above finished unlabel
+End processing Case_00248.
+Start processing Case_00375. unlabel
+above finished unlabel
+End processing Case_00375.
+Start processing Case_00501. unlabel
+above finished unlabel
+End processing Case_00501.
+Start processing Case_00610. unlabel
+above finished unlabel
+End processing Case_00610.
+Start processing Case_00705. unlabel
+above finished unlabel
+End processing Case_00705.
+Start processing Case_01491. unlabel
+above finished unlabel
+End processing Case_01491.
+Start processing Case_01616. unlabel
+above finished unlabel
+End processing Case_01616.
+Start processing Case_01799. unlabel
+above finished unlabel
+End processing Case_01799.
+Start processing Case_01981. unlabel
+above finished unlabel
+End processing Case_01981.
+Start processing Case_00025. unlabel
+above finished unlabel
+End processing Case_00025.
+Start processing Case_00284. unlabel
+above finished unlabel
+End processing Case_00284.
+Start processing Case_00392. unlabel
+above finished unlabel
+End processing Case_00392.
+Start processing Case_00499. unlabel
+above finished unlabel
+End processing Case_00499.
+Start processing Case_00572. unlabel
+above finished unlabel
+End processing Case_00572.
+Start processing Case_00728. unlabel
+above finished unlabel
+End processing Case_00728.
+Start processing Case_01434. unlabel
+above finished unlabel
+End processing Case_01434.
+Start processing Case_01599. unlabel
+above finished unlabel
+End processing Case_01599.
+Start processing Case_01774. unlabel
+above finished unlabel
+End processing Case_01774.
+Start processing Case_01953. unlabel
+above finished unlabel
+End processing Case_01953.
+Start processing Case_00086. unlabel
+above finished unlabel
+End processing Case_00086.
+Start processing Case_00190. unlabel
+above finished unlabel
+End processing Case_00190.
+Start processing Case_00267. unlabel
+above finished unlabel
+End processing Case_00267.
+Start processing Case_00482. unlabel
+above finished unlabel
+End processing Case_00482.
+Start processing Case_00628. unlabel
+above finished unlabel
+End processing Case_00628.
+Start processing Case_00703. unlabel
+above finished unlabel
+End processing Case_00703.
+Start processing Case_00825. unlabel
+above finished unlabel
+End processing Case_00825.
+Start processing Case_00986. unlabel
+above finished unlabel
+End processing Case_00986.
+Start processing Case_01078. unlabel
+above finished unlabel
+End processing Case_01078.
+Start processing Case_01265. unlabel
+above finished unlabel
+End processing Case_01265.
+Start processing Case_01492. unlabel
+above finished unlabel
+End processing Case_01492.
+Start processing Case_01630. unlabel
+above finished unlabel
+End processing Case_01630.
+Start processing Case_01835. unlabel
+above finished unlabel
+End processing Case_01835.
+Start processing Case_01997. unlabel
+above finished unlabel
+End processing Case_01997.
+Start processing Case_00007. unlabel
+above finished unlabel
+End processing Case_00007.
+Start processing Case_00136. unlabel
+above finished unlabel
+End processing Case_00136.
+Start processing Case_00181. unlabel
+above finished unlabel
+End processing Case_00181.
+Start processing Case_00231. unlabel
+above finished unlabel
+End processing Case_00231.
+Start processing Case_00486. unlabel
+above finished unlabel
+End processing Case_00486.
+Start processing Case_00552. unlabel
+above finished unlabel
+End processing Case_00552.
+Start processing Case_00621. unlabel
+above finished unlabel
+End processing Case_00621.
+Start processing Case_00672. unlabel
+above finished unlabel
+End processing Case_00672.
+Start processing Case_00875. unlabel
+above finished unlabel
+End processing Case_00875.
+Start processing Case_00920. unlabel
+above finished unlabel
+End processing Case_00920.
+Start processing Case_01065. unlabel
+above finished unlabel
+End processing Case_01065.
+Start processing Case_01130. unlabel
+above finished unlabel
+End processing Case_01130.
+Start processing Case_01220. unlabel
+above finished unlabel
+End processing Case_01220.
+Start processing Case_01404. unlabel
+above finished unlabel
+End processing Case_01404.
+Start processing Case_01631. unlabel
+above finished unlabel
+End processing Case_01631.
+Start processing Case_01815. unlabel
+above finished unlabel
+End processing Case_01815.
+Start processing Case_01999. unlabel
+above finished unlabel
+End processing Case_01999.
+Start processing FLARE22_Tr_0029. train
+above finished train
+End processing FLARE22_Tr_0029.
+Start processing Case_00874. unlabel
+above finished unlabel
+End processing Case_00874.
+Start processing Case_00967. unlabel
+above finished unlabel
+End processing Case_00967.
+Start processing Case_01384. unlabel
+above finished unlabel
+End processing Case_01384.
+Start processing Case_01560. unlabel
+above finished unlabel
+End processing Case_01560.
+Start processing Case_01759. unlabel
+above finished unlabel
+End processing Case_01759.
+Start processing Case_01922. unlabel
+above finished unlabel
+End processing Case_01922.
+Start processing FLARE22_Tr_0024. train
+above finished train
+End processing FLARE22_Tr_0024.
+Start processing Case_00861. unlabel
+above finished unlabel
+End processing Case_00861.
+Start processing Case_00939. unlabel
+above finished unlabel
+End processing Case_00939.
+Start processing Case_01032. unlabel
+above finished unlabel
+End processing Case_01032.
+Start processing Case_01122. unlabel
+above finished unlabel
+End processing Case_01122.
+Start processing Case_01203. unlabel
+above finished unlabel
+End processing Case_01203.
+Start processing Case_01332. unlabel
+above finished unlabel
+End processing Case_01332.
+Start processing Case_01467. unlabel
+above finished unlabel
+End processing Case_01467.
+Start processing Case_01682. unlabel
+above finished unlabel
+End processing Case_01682.
+Start processing Case_01826. unlabel
+above finished unlabel
+End processing Case_01826.
+Start processing Case_01979. unlabel
+above finished unlabel
+End processing Case_01979.
+Start processing Case_00026. unlabel
+above finished unlabel
+End processing Case_00026.
+Start processing Case_00178. unlabel
+above finished unlabel
+End processing Case_00178.
+Start processing Case_00212. unlabel
+above finished unlabel
+End processing Case_00212.
+Start processing Case_00313. unlabel
+above finished unlabel
+End processing Case_00313.
+Start processing Case_00357. unlabel
+above finished unlabel
+End processing Case_00357.
+Start processing Case_00411. unlabel
+above finished unlabel
+End processing Case_00411.
+Start processing Case_00678. unlabel
+above finished unlabel
+End processing Case_00678.
+Start processing Case_00758. unlabel
+above finished unlabel
+End processing Case_00758.
+Start processing Case_00944. unlabel
+above finished unlabel
+End processing Case_00944.
+Start processing Case_01301. unlabel
+above finished unlabel
+End processing Case_01301.
+Start processing Case_01442. unlabel
+above finished unlabel
+End processing Case_01442.
+Start processing Case_01573. unlabel
+above finished unlabel
+End processing Case_01573.
+Start processing Case_01821. unlabel
+above finished unlabel
+End processing Case_01821.
+Start processing Case_01987. unlabel
+above finished unlabel
+End processing Case_01987.
+Start processing Case_00122. unlabel
+above finished unlabel
+End processing Case_00122.
+Start processing Case_00157. unlabel
+above finished unlabel
+End processing Case_00157.
+Start processing Case_00215. unlabel
+above finished unlabel
+End processing Case_00215.
+Start processing Case_00408. unlabel
+above finished unlabel
+End processing Case_00408.
+Start processing Case_00461. unlabel
+above finished unlabel
+End processing Case_00461.
+Start processing Case_00583. unlabel
+above finished unlabel
+End processing Case_00583.
+Start processing Case_00625. unlabel
+above finished unlabel
+End processing Case_00625.
+Start processing Case_00726. unlabel
+above finished unlabel
+End processing Case_00726.
+Start processing Case_00844. unlabel
+above finished unlabel
+End processing Case_00844.
+Start processing Case_00910. unlabel
+above finished unlabel
+End processing Case_00910.
+Start processing Case_01051. unlabel
+above finished unlabel
+End processing Case_01051.
+Start processing Case_01256. unlabel
+above finished unlabel
+End processing Case_01256.
+Start processing Case_01413. unlabel
+above finished unlabel
+End processing Case_01413.
+Start processing Case_01563. unlabel
+above finished unlabel
+End processing Case_01563.
+Start processing Case_01714. unlabel
+above finished unlabel
+End processing Case_01714.
+Start processing Case_01818. unlabel
+above finished unlabel
+End processing Case_01818.
+Start processing Case_01975. unlabel
+above finished unlabel
+End processing Case_01975.
+Start processing Case_00037. unlabel
+above finished unlabel
+End processing Case_00037.
+Start processing Case_00341. unlabel
+above finished unlabel
+End processing Case_00341.
+Start processing Case_00460. unlabel
+above finished unlabel
+End processing Case_00460.
+Start processing Case_00782. unlabel
+above finished unlabel
+End processing Case_00782.
+Start processing Case_01252. unlabel
+above finished unlabel
+End processing Case_01252.
+Start processing Case_01375. unlabel
+above finished unlabel
+End processing Case_01375.
+Start processing Case_01543. unlabel
+above finished unlabel
+End processing Case_01543.
+Start processing Case_01724. unlabel
+above finished unlabel
+End processing Case_01724.
+Start processing Case_01842. unlabel
+above finished unlabel
+End processing Case_01842.
+Start processing Case_01994. unlabel
+above finished unlabel
+End processing Case_01994.
+Start processing Case_00030. unlabel
+above finished unlabel
+End processing Case_00030.
+Start processing Case_00489. unlabel
+above finished unlabel
+End processing Case_00489.
+Start processing Case_00574. unlabel
+above finished unlabel
+End processing Case_00574.
+Start processing Case_00626. unlabel
+above finished unlabel
+End processing Case_00626.
+Start processing Case_00694. unlabel
+above finished unlabel
+End processing Case_00694.
+Start processing Case_00812. unlabel
+above finished unlabel
+End processing Case_00812.
+Start processing Case_00953. unlabel
+above finished unlabel
+End processing Case_00953.
+Start processing Case_01077. unlabel
+above finished unlabel
+End processing Case_01077.
+Start processing Case_01246. unlabel
+above finished unlabel
+End processing Case_01246.
+Start processing Case_01409. unlabel
+above finished unlabel
+End processing Case_01409.
+Start processing Case_01575. unlabel
+above finished unlabel
+End processing Case_01575.
+Start processing Case_01849. unlabel
+above finished unlabel
+End processing Case_01849.
+Start processing Case_00009. unlabel
+above finished unlabel
+End processing Case_00009.
+Start processing Case_00149. unlabel
+above finished unlabel
+End processing Case_00149.
+Start processing Case_00225. unlabel
+above finished unlabel
+End processing Case_00225.
+Start processing Case_00280. unlabel
+above finished unlabel
+End processing Case_00280.
+Start processing Case_00332. unlabel
+above finished unlabel
+End processing Case_00332.
+Start processing Case_00359. unlabel
+above finished unlabel
+End processing Case_00359.
+Start processing Case_00395. unlabel
+above finished unlabel
+End processing Case_00395.
+Start processing Case_00469. unlabel
+above finished unlabel
+End processing Case_00469.
+Start processing Case_00555. unlabel
+above finished unlabel
+End processing Case_00555.
+Start processing Case_00635. unlabel
+above finished unlabel
+End processing Case_00635.
+Start processing Case_00699. unlabel
+above finished unlabel
+End processing Case_00699.
+Start processing Case_00789. unlabel
+above finished unlabel
+End processing Case_00789.
+Start processing Case_00898. unlabel
+above finished unlabel
+End processing Case_00898.
+Start processing Case_00993. unlabel
+above finished unlabel
+End processing Case_00993.
+Start processing Case_01046. unlabel
+above finished unlabel
+End processing Case_01046.
+Start processing Case_01201. unlabel
+above finished unlabel
+End processing Case_01201.
+Start processing Case_01328. unlabel
+above finished unlabel
+End processing Case_01328.
+Start processing Case_01502. unlabel
+above finished unlabel
+End processing Case_01502.
+Start processing Case_01644. unlabel
+above finished unlabel
+End processing Case_01644.
+Start processing Case_01829. unlabel
+above finished unlabel
+End processing Case_01829.
+Start processing Case_01985. unlabel
+above finished unlabel
+End processing Case_01985.
+Start processing FLARE22_Tr_0034. train
+above finished train
+End processing FLARE22_Tr_0034.
+Start processing Case_00887. unlabel
+above finished unlabel
+End processing Case_00887.
+Start processing Case_01011. unlabel
+above finished unlabel
+End processing Case_01011.
+Start processing Case_01140. unlabel
+above finished unlabel
+End processing Case_01140.
+Start processing Case_01199. unlabel
+above finished unlabel
+End processing Case_01199.
+Start processing Case_01337. unlabel
+above finished unlabel
+End processing Case_01337.
+Start processing Case_01508. unlabel
+above finished unlabel
+End processing Case_01508.
+Start processing Case_01674. unlabel
+above finished unlabel
+End processing Case_01674.
+Start processing Case_01805. unlabel
+above finished unlabel
+End processing Case_01805.
+Start processing Case_01982. unlabel
+above finished unlabel
+End processing Case_01982.
+Start processing FLARE22_Tr_0023. train
+above finished train
+End processing FLARE22_Tr_0023.
+Start processing Case_00918. unlabel
+above finished unlabel
+End processing Case_00918.
+Start processing Case_01047. unlabel
+above finished unlabel
+End processing Case_01047.
+Start processing Case_01222. unlabel
+above finished unlabel
+End processing Case_01222.
+Start processing Case_01383. unlabel
+above finished unlabel
+End processing Case_01383.
+Start processing Case_01617. unlabel
+above finished unlabel
+End processing Case_01617.
+Start processing Case_01828. unlabel
+above finished unlabel
+End processing Case_01828.
+Start processing Case_01995. unlabel
+above finished unlabel
+End processing Case_01995.
+Start processing Case_00121. unlabel
+above finished unlabel
+End processing Case_00121.
+Start processing Case_00287. unlabel
+above finished unlabel
+End processing Case_00287.
+Start processing Case_00371. unlabel
+above finished unlabel
+End processing Case_00371.
+Start processing Case_00456. unlabel
+above finished unlabel
+End processing Case_00456.
+Start processing Case_00643. unlabel
+above finished unlabel
+End processing Case_00643.
+Start processing Case_00739. unlabel
+above finished unlabel
+End processing Case_00739.
+Start processing Case_00835. unlabel
+above finished unlabel
+End processing Case_00835.
+Start processing Case_00961. unlabel
+above finished unlabel
+End processing Case_00961.
+Start processing Case_01276. unlabel
+above finished unlabel
+End processing Case_01276.
+Start processing Case_01395. unlabel
+above finished unlabel
+End processing Case_01395.
+Start processing Case_01561. unlabel
+above finished unlabel
+End processing Case_01561.
+Start processing Case_01719. unlabel
+above finished unlabel
+End processing Case_01719.
+Start processing Case_01902. unlabel
+above finished unlabel
+End processing Case_01902.
+Start processing Case_00064. unlabel
+above finished unlabel
+End processing Case_00064.
+Start processing Case_00747. unlabel
+above finished unlabel
+End processing Case_00747.
+Start processing Case_00810. unlabel
+above finished unlabel
+End processing Case_00810.
+Start processing Case_00851. unlabel
+above finished unlabel
+End processing Case_00851.
+Start processing Case_00942. unlabel
+above finished unlabel
+End processing Case_00942.
+Start processing Case_01456. unlabel
+above finished unlabel
+End processing Case_01456.
+Start processing Case_01650. unlabel
+above finished unlabel
+End processing Case_01650.
+Start processing Case_01778. unlabel
+above finished unlabel
+End processing Case_01778.
+Start processing Case_02000. unlabel
+above finished unlabel
+End processing Case_02000.
+Start processing Case_00065. unlabel
+above finished unlabel
+End processing Case_00065.
+Start processing Case_00146. unlabel
+above finished unlabel
+End processing Case_00146.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00218_0000.nii.gz!
+Start processing Case_00218. unlabel
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00221_0000.nii.gz!
+Start processing Case_00221. unlabel
+Start processing Case_00223. unlabel
+above finished unlabel
+End processing Case_00223.
+Start processing Case_00296. unlabel
+above finished unlabel
+End processing Case_00296.
+Start processing Case_00358. unlabel
+above finished unlabel
+End processing Case_00358.
+Start processing Case_00413. unlabel
+above finished unlabel
+End processing Case_00413.
+Start processing Case_00500. unlabel
+above finished unlabel
+End processing Case_00500.
+Start processing Case_00589. unlabel
+above finished unlabel
+End processing Case_00589.
+Start processing Case_01103. unlabel
+above finished unlabel
+End processing Case_01103.
+Start processing Case_01193. unlabel
+above finished unlabel
+End processing Case_01193.
+Start processing Case_01425. unlabel
+above finished unlabel
+End processing Case_01425.
+Start processing Case_01579. unlabel
+above finished unlabel
+End processing Case_01579.
+Start processing Case_01917. unlabel
+above finished unlabel
+End processing Case_01917.
+Start processing FLARE22_Tr_0010. train
+above finished train
+End processing FLARE22_Tr_0010.
+Start processing Case_00779. unlabel
+above finished unlabel
+End processing Case_00779.
+Start processing Case_00850. unlabel
+above finished unlabel
+End processing Case_00850.
+Start processing Case_00905. unlabel
+above finished unlabel
+End processing Case_00905.
+Start processing Case_01000. unlabel
+above finished unlabel
+End processing Case_01000.
+Start processing Case_01094. unlabel
+above finished unlabel
+End processing Case_01094.
+Start processing Case_01148. unlabel
+above finished unlabel
+End processing Case_01148.
+Start processing Case_01284. unlabel
+above finished unlabel
+End processing Case_01284.
+Start processing Case_01389. unlabel
+above finished unlabel
+End processing Case_01389.
+Start processing Case_01569. unlabel
+above finished unlabel
+End processing Case_01569.
+Start processing Case_01847. unlabel
+above finished unlabel
+End processing Case_01847.
+Start processing Case_00038. unlabel
+above finished unlabel
+End processing Case_00038.
+Start processing Case_00160. unlabel
+above finished unlabel
+End processing Case_00160.
+Start processing Case_00247. unlabel
+above finished unlabel
+End processing Case_00247.
+Start processing Case_01314. unlabel
+above finished unlabel
+End processing Case_01314.
+Start processing Case_01448. unlabel
+above finished unlabel
+End processing Case_01448.
+Start processing Case_01566. unlabel
+above finished unlabel
+End processing Case_01566.
+Start processing Case_01859. unlabel
+above finished unlabel
+End processing Case_01859.
+Start processing Case_00102. unlabel
+above finished unlabel
+End processing Case_00102.
+Start processing Case_00294. unlabel
+above finished unlabel
+End processing Case_00294.
+Start processing Case_00540. unlabel
+above finished unlabel
+End processing Case_00540.
+Start processing Case_00636. unlabel
+above finished unlabel
+End processing Case_00636.
+Start processing Case_00729. unlabel
+above finished unlabel
+End processing Case_00729.
+Start processing Case_00896. unlabel
+above finished unlabel
+End processing Case_00896.
+Start processing Case_01041. unlabel
+above finished unlabel
+End processing Case_01041.
+Start processing Case_01174. unlabel
+above finished unlabel
+End processing Case_01174.
+Start processing Case_01294. unlabel
+above finished unlabel
+End processing Case_01294.
+Start processing Case_01474. unlabel
+above finished unlabel
+End processing Case_01474.
+Start processing Case_01670. unlabel
+above finished unlabel
+End processing Case_01670.
+Start processing Case_01825. unlabel
+above finished unlabel
+End processing Case_01825.
+Start processing Case_01992. unlabel
+above finished unlabel
+End processing Case_01992.
+Start processing Case_00120. unlabel
+above finished unlabel
+End processing Case_00120.
+Start processing Case_00276. unlabel
+above finished unlabel
+End processing Case_00276.
+Start processing Case_00382. unlabel
+above finished unlabel
+End processing Case_00382.
+Start processing Case_00496. unlabel
+above finished unlabel
+End processing Case_00496.
+Start processing Case_00613. unlabel
+above finished unlabel
+End processing Case_00613.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00681_0000.nii.gz!
+Start processing Case_00681. unlabel
+Start processing Case_00682. unlabel
+above finished unlabel
+End processing Case_00682.
+Start processing Case_00998. unlabel
+above finished unlabel
+End processing Case_00998.
+Start processing Case_01110. unlabel
+above finished unlabel
+End processing Case_01110.
+Start processing Case_01249. unlabel
+above finished unlabel
+End processing Case_01249.
+Start processing Case_01431. unlabel
+above finished unlabel
+End processing Case_01431.
+Start processing Case_01613. unlabel
+above finished unlabel
+End processing Case_01613.
+Start processing Case_01800. unlabel
+above finished unlabel
+End processing Case_01800.
+Start processing Case_01998. unlabel
+above finished unlabel
+End processing Case_01998.
+Start processing Case_00097. unlabel
+above finished unlabel
+End processing Case_00097.
+Start processing Case_00164. unlabel
+above finished unlabel
+End processing Case_00164.
+Start processing Case_00222. unlabel
+above finished unlabel
+End processing Case_00222.
+Start processing Case_00329. unlabel
+above finished unlabel
+End processing Case_00329.
+Start processing Case_00381. unlabel
+above finished unlabel
+End processing Case_00381.
+Start processing Case_00476. unlabel
+above finished unlabel
+End processing Case_00476.
+Start processing Case_01244. unlabel
+above finished unlabel
+End processing Case_01244.
+Start processing Case_01392. unlabel
+above finished unlabel
+End processing Case_01392.
+Start processing Case_01553. unlabel
+above finished unlabel
+End processing Case_01553.
+Start processing Case_01777. unlabel
+above finished unlabel
+End processing Case_01777.
+Start processing Case_01989. unlabel
+above finished unlabel
+End processing Case_01989.
+Start processing Case_00118. unlabel
+above finished unlabel
+End processing Case_00118.
+Start processing Case_00285. unlabel
+above finished unlabel
+End processing Case_00285.
+Start processing Case_00347. unlabel
+above finished unlabel
+End processing Case_00347.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00432_0000.nii.gz!
+Start processing Case_00432. unlabel
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00433_0000.nii.gz!
+Start processing Case_00433. unlabel
+Start processing Case_00435. unlabel
+above finished unlabel
+End processing Case_00435.
+Start processing Case_00557. unlabel
+above finished unlabel
+End processing Case_00557.
+load ct throws exception Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK-build/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx:1980:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!, with file /home/yuanke/net/EfficientSegmentation/FlareSeg/dataset/train_unlable_images/Case_00687_0000.nii.gz!
+Start processing Case_00687. unlabel
+Start processing Case_00689. unlabel
+above finished unlabel
+End processing Case_00689.
+Start processing Case_00788. unlabel
+above finished unlabel
+End processing Case_00788.
+Start processing Case_01057. unlabel
+above finished unlabel
+End processing Case_01057.
+Start processing Case_01274. unlabel
+above finished unlabel
+End processing Case_01274.
+Start processing Case_01432. unlabel
+above finished unlabel
+End processing Case_01432.
+Start processing Case_01627. unlabel
+above finished unlabel
+End processing Case_01627.
+Start processing Case_01753. unlabel
+above finished unlabel
+End processing Case_01753.
+Start processing Case_01887. unlabel
+above finished unlabel
+End processing Case_01887.
+Start processing Case_00099. unlabel
+above finished unlabel
+End processing Case_00099.
+Start processing Case_00250. unlabel
+above finished unlabel
+End processing Case_00250.
+Start processing Case_00346. unlabel
+above finished unlabel
+End processing Case_00346.
+Start processing Case_00418. unlabel
+above finished unlabel
+End processing Case_00418.
+Start processing Case_00818. unlabel
+above finished unlabel
+End processing Case_00818.
+Start processing Case_00956. unlabel
+above finished unlabel
+End processing Case_00956.
+Start processing Case_01319. unlabel
+above finished unlabel
+End processing Case_01319.
+Start processing Case_01446. unlabel
+above finished unlabel
+End processing Case_01446.
+Start processing Case_01585. unlabel
+above finished unlabel
+End processing Case_01585.
+Start processing Case_01747. unlabel
+above finished unlabel
+End processing Case_01747.
+Start processing Case_01884. unlabel
+above finished unlabel
+End processing Case_01884.
+Start processing Case_01991. unlabel
+above finished unlabel
+End processing Case_01991.
+Start processing Case_00035. unlabel
+above finished unlabel
+End processing Case_00035.
+Start processing Case_00139. unlabel
+above finished unlabel
+End processing Case_00139.
+Start processing Case_00204. unlabel
+above finished unlabel
+End processing Case_00204.
+Start processing Case_00425. unlabel
+above finished unlabel
+End processing Case_00425.
+Start processing Case_00623. unlabel
+above finished unlabel
+End processing Case_00623.
+Start processing Case_00722. unlabel
+above finished unlabel
+End processing Case_00722.
+Start processing Case_00764. unlabel
+above finished unlabel
+End processing Case_00764.
+Start processing Case_00908. unlabel
+above finished unlabel
+End processing Case_00908.
+Start processing Case_00989. unlabel
+above finished unlabel
+End processing Case_00989.
+Start processing Case_01152. unlabel
+above finished unlabel
+End processing Case_01152.
+Start processing Case_01295. unlabel
+above finished unlabel
+End processing Case_01295.
+Start processing Case_01471. unlabel
+above finished unlabel
+End processing Case_01471.
+Start processing Case_01657. unlabel
+above finished unlabel
+End processing Case_01657.
+Start processing Case_01813. unlabel
+above finished unlabel
+End processing Case_01813.
+Start processing Case_01984. unlabel
+above finished unlabel
+End processing Case_01984.
+Start processing Case_00094. unlabel
+above finished unlabel
+End processing Case_00094.
+Start processing Case_00228. unlabel
+above finished unlabel
+End processing Case_00228.
+Start processing Case_00320. unlabel
+above finished unlabel
+End processing Case_00320.
+Start processing Case_00422. unlabel
+above finished unlabel
+End processing Case_00422.
+Start processing Case_00856. unlabel
+above finished unlabel
+End processing Case_00856.
+Start processing Case_01052. unlabel
+above finished unlabel
+End processing Case_01052.
+Start processing Case_01224. unlabel
+above finished unlabel
+End processing Case_01224.
+Start processing Case_01388. unlabel
+above finished unlabel
+End processing Case_01388.
+Start processing Case_01549. unlabel
+above finished unlabel
+End processing Case_01549.
+Start processing Case_01848. unlabel
+above finished unlabel
+End processing Case_01848.
+Start processing Case_00109. unlabel
+above finished unlabel
+End processing Case_00109.
+Start processing Case_00210. unlabel
+above finished unlabel
+End processing Case_00210.
+Start processing Case_00398. unlabel
+above finished unlabel
+End processing Case_00398.
+Start processing Case_00477. unlabel
+above finished unlabel
+End processing Case_00477.
+Start processing Case_00608. unlabel
+above finished unlabel
+End processing Case_00608.
+Start processing Case_00692. unlabel
+above finished unlabel
+End processing Case_00692.
+Start processing Case_00907. unlabel
+above finished unlabel
+End processing Case_00907.
+Start processing Case_01056. unlabel
+above finished unlabel
+End processing Case_01056.
+Start processing Case_01266. unlabel
+above finished unlabel
+End processing Case_01266.
+Start processing Case_01372. unlabel
+above finished unlabel
+End processing Case_01372.
+Start processing Case_01541. unlabel
+above finished unlabel
+End processing Case_01541.
+Start processing Case_01936. unlabel
+above finished unlabel
+End processing Case_01936.
+Start processing Case_00107. unlabel
+above finished unlabel
+End processing Case_00107.
+Start processing Case_00189. unlabel
+above finished unlabel
+End processing Case_00189.
+Start processing Case_00301. unlabel
+above finished unlabel
+End processing Case_00301.
+Start processing Case_01154. unlabel
+above finished unlabel
+End processing Case_01154.
+Start processing Case_01310. unlabel
+above finished unlabel
+End processing Case_01310.
+Start processing Case_01455. unlabel
+above finished unlabel
+End processing Case_01455.
+Start processing Case_01597. unlabel
+above finished unlabel
+End processing Case_01597.
+Start processing Case_01781. unlabel
+above finished unlabel
+End processing Case_01781.
+Start processing Case_01996. unlabel
+above finished unlabel
+End processing Case_01996.
+[]
+Num of train series is: 288, num of val series is: 73.

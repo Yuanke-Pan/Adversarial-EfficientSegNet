@@ -1,0 +1,25 @@
+ENVIRONMENT:
+  DATA_BASE_DIR: 'FlareSeg/dataset/'
+
+DATA_PREPARE:
+  TRAIN_SERIES_IDS_TXT: 'file_list/train_series_uids.txt'
+  TEST_SERIES_IDS_TXT: 'file_list/val_series_uids.txt'
+  TRAIN_UNLABEL_SERIES_IDS_TXT: 'file_list/train_unlabel_series_uids.txt'
+  BAD_CASE_SERIES_IDS_TXT: None
+  TRAIN_IMAGE_DIR: 'train_images'
+  TRAIN_MASK_DIR: 'train_mask'
+  TRAIN_UNLABEL_DIR: 'train_unlable_images'
+  TEST_IMAGE_DIR: 'val_images'
+  TEST_MASK_DIR: None
+  DEFAULT_TRAIN_DB: 'db/seg_train_database'
+  DEFAULT_VAL_DB: 'db/seg_val_database'
+  DEFAULT_UNLABEL_DB: 'db/seg_unlabel_database'
+  OUT_DIR: None
+  MASK_LABEL: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  EXTEND_SIZE: 20
+  VAL_RATIO: 0.2
+  IS_SMOOTH_MASK: False
+  IS_NORMALIZATION_DIRECTION: True
+  OUT_COARSE_SIZE: [160, 160, 160]
+  OUT_FINE_SIZE: [192, 192, 192]
+  IS_SPLIT_5FOLD: True

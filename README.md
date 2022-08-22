@@ -5,10 +5,10 @@
 [Efficient Context-Aware Network for Abdominal Multi-organ Segmentation](https://arxiv.org/abs/2109.10601). Please also cite this paper if you are using the method for your research!
 
 ## Benchmark
-| Task | Architecture | Parameters(MB) | Flops(GB) | DSC | NSC | Inference time(s) | GPU memory(MB) |
+| Task | Architecture | Parameters(MB) | Flops(GB) | DSC | NSC |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[FLARE22](https://flare22.grand-challenge.org)| EfficientSegNet | 9 | 333 | 0.908 | 0.837 | 0.46 | 2269 |
-|[FLARE22](https://flare22.grand-challenge.org)| Adversarial EfficientSegNet | 9 | 333 | 0.919 | 0.848 | 0.46 | 2269 |
+|[FLARE22](https://flare22.grand-challenge.org)| EfficientSegNet | 9 | 333 | 0.800 | 0.837 |
+|[FLARE22](https://flare22.grand-challenge.org)| Adversarial EfficientSegNet | 9 | 333 | 0.840 | 0.872 |
 
 ## Installation
 

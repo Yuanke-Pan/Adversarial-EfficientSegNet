@@ -6,7 +6,7 @@
 
 ## Benchmark
 | Task | Architecture | Parameters(MB) | Flops(GB) | DSC | NSC |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |[FLARE22](https://flare22.grand-challenge.org)| EfficientSegNet | 9 | 333 | 0.800 | 0.837 |
 |[FLARE22](https://flare22.grand-challenge.org)| Adversarial EfficientSegNet | 9 | 333 | 0.840 | 0.872 |
 

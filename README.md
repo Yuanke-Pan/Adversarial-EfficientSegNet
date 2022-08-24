@@ -69,5 +69,7 @@ sh predict.sh
 
 ## Reference
 [1] Zhang, F., Wang, Y.: Efficient context-aware network for abdominal multi-organ segmentation. ArXiv abs/2109.10601 (2021)
+
 [2] Z. e. a. Zhu, “A 3d coarse-to-fine framework for volumetric medical image segmentation.” 2018 International Conference on 3D Vision (3DV), 2018.
+
 [3] Q. e. a. Hou, “Strip pooling: Rethinking spatial pooling for scene parsing.” 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.

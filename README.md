@@ -21,7 +21,7 @@
 
 1.Git clone
 ```
-git clone https://github.com/Shanghai-Aitrox-Technology/EfficientSegmentation.git
+git clone https://github.com/Yuanke-Pan/Adversarial-EfficientSegNet.git
 ```
 
 2.Install Nvidia Apex
